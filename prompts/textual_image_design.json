@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "prompt": "Design an infographic explaining Japan's economic impact due to COVID-19.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 2,
+        "prompt": "Create an infographic summarizing American coffee consumption trends in 2020.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 3,
+        "prompt": "Create an infographic raising awareness about unsafe food's impact, especially on children.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 4,
+        "prompt": "Create an infographic showcasing foreign-born doctors and nurses' share in OECD countries (2015-16).",
+        "tag": "Infographic"
+    },
+    {
+        "id": 5,
+        "prompt": "Design an infographic highlighting 2017's solar energy achievements in the U.S., focusing on investment, job creation, capacity growth, and tribal land grants.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 6,
+        "prompt": "Create an infographic on sustainable agriculture highlighting land competition, water stress, and country performance.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 7,
+        "prompt": "Create an infographic showcasing Ireland's economic recovery (2013-2015) with clear sections on exports, investment, employment, consumer spending, and GDP growth.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 8,
+        "prompt": "Create an infographic highlighting a soccer player's Premier League stats with a dynamic player image and clear data visualization.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 9,
+        "prompt": "Design an infographic illustrating the cost of raising a child to age 17, using a game-board-style path with colorful icons for expenses like housing, food, and childcare.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 10,
+        "prompt": "Create an infographic map highlighting the Pan-American Highway's 48,000 km route, showcasing key challenges like Summit of Death, Darien Gap, and Atacama Desert.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 11,
+        "prompt": "Design an infographic on online risks for children aged 9-16, using clear visuals and stats.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 12,
+        "prompt": "Create an infographic summarizing Australia's STEM workforce, highlighting 2.3 million workers, 84% men, 77% private sector employment, low unemployment, and GDP impact.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 13,
+        "prompt": "Design an infographic highlighting the challenges in American healthcare, focusing on high infant mortality, preventable deaths, and financial strain from medical bills.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 14,
+        "prompt": "Design an infographic comparing rising home care demand (66% by 2030) with declining worker supply.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 15,
+        "prompt": "Design an infographic summarizing 'Motivated Greens' segment, highlighting their demographic profile, food behavior, empowerment, materialism, influence potential, trust in science, and environmental attitudes.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 16,
+        "prompt": "Create an infographic on STEM's role in environmental sustainability.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 17,
+        "prompt": "Create an infographic highlighting global obesity's rise since 1980, showing it as the 5th leading risk for deaths.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 18,
+        "prompt": "Create an infographic on Sub-Saharan East Africa's food security issues, using clear visuals like charts and icons.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 19,
+        "prompt": "Create an infographic on sushi history using a timeline format with engaging illustrations and concise text.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 20,
+        "prompt": "Create an infographic highlighting women's underrepresentation in U.S. leadership roles in 2013.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 21,
+        "prompt": "Design an infographic comparing Canadian women's and men's political engagement using icons, charts, and color coding.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 22,
+        "prompt": "Design an infographic emphasizing the benefits of reducing post-harvest food loss for people, the planet, and profits.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 23,
+        "prompt": "Design an infographic highlighting the global aging population, showing percentages of people over 65 by region in 2012 and 2050.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 24,
+        "prompt": "Create an infographic highlighting the challenges faced by caregivers for the aging population.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 25,
+        "prompt": "Design an infographic illustrating Europe's demographic challenges, focusing on aging populations and low fertility rates.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 26,
+        "prompt": "Design an infographic illustrating the declining global fertility rate from 1990 to 2100 using simple icons and bar graphs.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 27,
+        "prompt": "Create an infographic highlighting chronic pain in the UK, showing 28 million sufferers with gender distribution.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 28,
+        "prompt": "Design an infographic highlighting climate change impacts at various temperature increases and UK's role in global action.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 29,
+        "prompt": "Design an infographic using a lightbulb motif to showcase the value of creativity in personal identity and society.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 30,
+        "prompt": "Create an infographic titled 'UK's Pampered Pets' using a house layout.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 31,
+        "prompt": "Design an infographic on climate change impacts in London, focusing on heatwaves and the aging population.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 32,
+        "prompt": "Create an infographic highlighting UN targets for increasing women in peace operations.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 33,
+        "prompt": "Design an infographic highlighting women's participation in the global workforce using a pie chart for sector distribution and icons for clarity.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 34,
+        "prompt": "Create an infographic highlighting women's progress in federal service, focusing on leadership roles, workplace flexibility, and pay equity.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 35,
+        "prompt": "Create an infographic on women's role in paid work, showcasing labor force participation growth, employment trends, part-time work distribution, employment gaps, and gender wage disparities.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 36,
+        "prompt": "Create an infographic promoting the environmental benefits of a vegan diet.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 37,
+        "prompt": "Design an infographic that challenges the myth of paperless being greener.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 38,
+        "prompt": "Design an infographic highlighting responsible packaging shoppers' preferences for eco-friendly and healthy products.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 39,
+        "prompt": "Create an infographic highlighting recycling's environmental benefits using a central globe with connecting arrows.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 40,
+        "prompt": "Create an infographic highlighting the challenges of developing new medical treatments.",
+        "tag": "Infographic"
+    },
+    {
+        "id": 41,
+        "prompt": "Create a bold, illustrative poster promoting 'Explosive Creativity,' encouraging viewers to tap into their imagination.",
+        "tag": "Poster"
+    },
+    {
+        "id": 42,
+        "prompt": "Create a vibrant poster promoting a stylish night out, inviting attendees to dress impressively for an unforgettable night at The Loft, Downtown, starting Saturday at 8 PM.",
+        "tag": "Poster"
+    },
+    {
+        "id": 43,
+        "prompt": "Create a motivational poster conveying themes of growth, embracing the journey, and transforming challenges into possibilities.",
+        "tag": "Poster"
+    },
+    {
+        "id": 44,
+        "prompt": "Create a motivational poster encouraging escape from the ordinary and discovery of hidden corners.",
+        "tag": "Poster"
+    },
+    {
+        "id": 45,
+        "prompt": "Create an ad inviting viewers to dive into citrus bliss for a refreshing experience, available at nearby stores now, and drawing attention to the product's freshness.",
+        "tag": "Poster"
+    },
+    {
+        "id": 46,
+        "prompt": "Create a promotional poster for 'Ice Couture' Winter Fashion Gala, highlighting the event details—March 5th, 7 PM at The Ice Palace.",
+        "tag": "Poster"
+    },
+    {
+        "id": 47,
+        "prompt": "Create a vibrant poster with the theme 'Blossom in the City'.",
+        "tag": "Poster"
+    },
+    {
+        "id": 48,
+        "prompt": "Design a poster titled 'Flight' inviting viewers to explore the beauty and freedom of avian wonders.",
+        "tag": "Poster"
+    },
+    {
+        "id": 49,
+        "prompt": "Create a poster with the theme 'Balance in Focus', conveying a sense of calm and concentration.",
+        "tag": "Poster"
+    },
+    {
+        "id": 50,
+        "prompt": "Design a poster showcasing a ferry interior with text 'Discover Tranquility' and 'A Journey Through Scenic Waters', inviting viewers to experience serenity and relaxation during their journey.",
+        "tag": "Poster"
+    },
+    {
+        "id": 51,
+        "prompt": "Design a poster for a nighttime photography exhibit, inviting all photography enthusiasts to the 'In Focus: Capturing the Night' exhibit, including details for the event.",
+        "tag": "Poster"
+    },
+    {
+        "id": 52,
+        "prompt": "Create an elegant poster inviting guests to 'the Grand Entrance' for an unforgettable evening filled with laughter, music, and dancing, including the event details.",
+        "tag": "Poster"
+    },
+    {
+        "id": 53,
+        "prompt": "Create an illustrative poster advising 'Keep Our Parks Clean' and 'Protect Wildlife by Disposing of Trash Properly'.",
+        "tag": "Poster"
+    },
+    {
+        "id": 54,
+        "prompt": "Create a vibrant poster celebrating nature's beauty of birds and botanicals, describing the event and inviting viewers to pause and admire the natural world.",
+        "tag": "Poster"
+    },
+    {
+        "id": 55,
+        "prompt": "Design a poster for a photography exhibit named 'Capturing Motion: An Exploration of Light and Speed through Photography'.",
+        "tag": "Poster"
+    },
+    {
+        "id": 56,
+        "prompt": "Create a vibrant poster promoting a soccer-themed event, inviting viewers to join an inspiring journey premiering worldwide on November 10, 2023, in cinemas everywhere.",
+        "tag": "Poster"
+    },
+    {
+        "id": 57,
+        "prompt": "Create a motivational poster with the theme 'Strength in Nature', emphasizing resilience and growth, including inspirational quotes about embracing life's twists and nurturing strength through dedication.",
+        "tag": "Poster"
+    },
+    {
+        "id": 58,
+        "prompt": "Design a vibrant poster promoting knowledge sharing in an urban setting, with the theme 'Rediscovering Knowledge: The Book Phone Box', encouraging community interaction through shared literature.",
+        "tag": "Poster"
+    },
+    {
+        "id": 59,
+        "prompt": "Create a vintage-inspired poster with the theme 'Discover Your World', using warm tones and nostalgic elements to create an inviting atmosphere that encourages exploration.",
+        "tag": "Poster"
+    },
+    {
+        "id": 60,
+        "prompt": "Design a poster with the theme 'REDISCOVERING NATURE: AN EDUCATIONAL JOURNEY THROUGH TIME AND TECHNOLOGY', encouraging viewers to reflect on the relationship between nature and technology.",
+        "tag": "Poster"
+    },
+    {
+        "id": 61,
+        "prompt": "Create a motivational poster encouraging self-expression with text 'Write Your Own Story'.",
+        "tag": "Poster"
+    },
+    {
+        "id": 62,
+        "prompt": "Create a nostalgic poster promoting an event 'A JOURNEY THROUGH TIME,' inviting viewers to step into the past with art and design at the Vintage Lounge on Main Street from November 10-20, 2023.",
+        "tag": "Poster"
+    },
+    {
+        "id": 63,
+        "prompt": "Create a nostalgic poster for 'Whispers of Time: A Journey Through Forgotten Moments', including text that announces the event premiere on November 10 at the Classic Theater, 7 PM.",
+        "tag": "Poster"
+    },
+    {
+        "id": 64,
+        "prompt": "Create an inviting scene with bookshelves and Turkish flags promoting reading and cultural heritage.",
+        "tag": "Poster"
+    },
+    {
+        "id": 65,
+        "prompt": "Design a poster promoting an event on historic architecture using an image of an ornate old building.",
+        "tag": "Poster"
+    },
+    {
+        "id": 66,
+        "prompt": "Design a poster for an art exhibition that captures the beauty in everyday urban moments.",
+        "tag": "Poster"
+    },
+    {
+        "id": 67,
+        "prompt": "Design a nostalgic vintage market fair poster featuring an elderly man browsing items.",
+        "tag": "Poster"
+    },
+    {
+        "id": 68,
+        "prompt": "Design a poster promoting 'Step Into Nature,' blending art and nature.",
+        "tag": "Poster"
+    },
+    {
+        "id": 69,
+        "prompt": "Design a workshop poster using lockers as a metaphor for unlocking creativity.",
+        "tag": "Poster"
+    },
+    {
+        "id": 70,
+        "prompt": "Design an image showcasing 'REFLECTIONS OF NATURE' with a person holding a mirror amidst wildflowers and grass.",
+        "tag": "Poster"
+    },
+    {
+        "id": 71,
+        "prompt": "Design a poster that invites viewers to explore 'City Illuminations', the poetic essence of city life.",
+        "tag": "Poster"
+    },
+    {
+        "id": 72,
+        "prompt": "Design a vibrant poster promoting an ice cream festival.",
+        "tag": "Poster"
+    },
+    {
+        "id": 73,
+        "prompt": "Design a rustic retreat poster featuring a thatched cottage, wooden furniture, and lush greenery.",
+        "tag": "Poster"
+    },
+    {
+        "id": 74,
+        "prompt": "Design a poster for 'Whispers of the Earth' art exhibit.",
+        "tag": "Poster"
+    },
+    {
+        "id": 75,
+        "prompt": "Create a minimalist promotional poster for a workshop on simplicity in design.",
+        "tag": "Poster"
+    },
+    {
+        "id": 76,
+        "prompt": "Create a motivational poster with the theme 'FIND YOUR TRUE NORTH', emphasizing purpose and adventure.",
+        "tag": "Poster"
+    },
+    {
+        "id": 77,
+        "prompt": "Design a visually appealing poster to promote a citrus fruits nutrition workshop named 'Balance & Nutrition', with details about the time and location.",
+        "tag": "Poster"
+    },
+    {
+        "id": 78,
+        "prompt": "Create a cheerful poster with the theme 'Bee Happy! Spread the Buzz of Joy!'",
+        "tag": "Poster"
+    },
+    {
+        "id": 79,
+        "prompt": "Design a poster with the theme 'Street Art and Urban Mobility', highlighting their harmonious coexistence in urban settings.",
+        "tag": "Poster"
+    },
+    {
+        "id": 80,
+        "prompt": "Design a poster for 'Whispers of the Wild' documentary.",
+        "tag": "Poster"
+    },
+    {
+        "id": 81,
+        "prompt": "Design a high-contrast black-and-white promotional poster for a summer music tour featuring Lifehouse and Switchfoot.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 82,
+        "prompt": "Design a vibrant yellow poster for a Latin-themed event 'South of the Border' with bold red text, a guitarist in a sombrero, and a mojito glass.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 83,
+        "prompt": "Design a vibrant promotional poster for a tropical theme park featuring water slides, ziplines, and natural landscapes.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 84,
+        "prompt": "Design a vibrant poster for a summer music camp using dynamic silhouettes and energetic colors.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 85,
+        "prompt": "Design a vibrant music book cover featuring 15 Disney duets.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 86,
+        "prompt": "Design a radio schedule poster for WBCA 102.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 87,
+        "prompt": "Design a vibrant festival poster with colorful, layered text listing diverse musicians.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 88,
+        "prompt": "Design a magazine cover promoting camping in Oregon.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 89,
+        "prompt": "Design a magazine cover promoting cozy dinners with a focus on a golden chicken pot pie.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 90,
+        "prompt": "Create a vibrant magazine cover promoting Dublin's outdoor and cultural scenes.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 91,
+        "prompt": "Create a vibrant magazine cover for 'Home Entertaining' featuring a stylish dining setup with modern furniture and greenery.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 92,
+        "prompt": "Design a magazine page showcasing innovative Hinckley sport boats.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 93,
+        "prompt": "Create a magazine page promoting DIY doughnuts with a focus on homemade recipes.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 94,
+        "prompt": "Create a Van Gogh-inspired movie poster using his painting style.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 95,
+        "prompt": "Create an elegant, vintage-style emblem with ornate framing and ribbons.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 96,
+        "prompt": "Create a promotional collage for 28 pumpkin patch digital backgrounds.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 97,
+        "prompt": "Design a bold book cover using red and black text with simple geometric shapes.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 98,
+        "prompt": "Create a vibrant book cover with diverse students in a school setting, holding books and food, symbolizing education and community.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 99,
+        "prompt": "Create a mysterious book cover featuring a lone figure in a top hat and coat on a rooftop, overlooking a foggy cityscape.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 100,
+        "prompt": "Design a book cover featuring elegant paper flowers in a vase against a textured gray background.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 101,
+        "prompt": "Design a comic book cover for 'Doctor Who' featuring the Twelfth Doctor in a contemplative pose against a cosmic backdrop with mathematical symbols.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 102,
+        "prompt": "Design a vibrant, child-friendly book cover featuring a whimsical cat exploring space.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 103,
+        "prompt": "Design a book cover featuring a child on a train car, using contrasting light and shadow to evoke mystery and tension.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 104,
+        "prompt": "Design a magazine feature highlighting Sally Manke, 'The It Girl of the Quilting World,' showcasing her fabric art inspired by nature.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 105,
+        "prompt": "Create a serene beach photography guide cover featuring a sailboat at sunset.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 106,
+        "prompt": "Design a promotional graphic highlighting '600 free eBooks' for Kindle, iPhone, and iPad.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 107,
+        "prompt": "Design a book cover for a historical romance novel.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 108,
+        "prompt": "Design a travel magazine spread showcasing 'Outlaw Country,' featuring scenic landscapes like Loch Katrine and Ben Venue.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 109,
+        "prompt": "Create an Easter-themed magazine cover featuring realistic chickens and chicks, evoking warmth and tradition.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 110,
+        "prompt": "Create a vibrant book cover for 'The Wind in the Willows' featuring four anthropomorphic animals in formal wear, set against a lush willow background.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 111,
+        "prompt": "Design a minimalist tutorial poster for a DIY fall garland using colorful paper leaves.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 112,
+        "prompt": "Create a Vogue 125th Anniversary cover using classical painting style.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 113,
+        "prompt": "Design a book cover with a whimsical floating house attached to a hot air balloon, set against a dramatic sky.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 114,
+        "prompt": "Design a book cover illustrating a grand estate with a vintage car and formally dressed figures.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 115,
+        "prompt": "Create a vintage-style collage celebrating American National Parks.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 116,
+        "prompt": "Design a vibrant book cover featuring a woman holding a basket of fresh produce against a blue wall with intricate patterns.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 117,
+        "prompt": "Create a warm, inviting book cover featuring a cheerful orange cat amidst colorful book stacks in a cozy bookstore.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 118,
+        "prompt": "Create a vibrant book cover with a globe at the center, surrounded by diverse kids engaging in positive actions like biking, reading, and planting.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 119,
+        "prompt": "Create a whimsical illustration poster of Frida Kahlo surrounded by animals and nature, including text explaining her love for pets and the magical quality of her paintings.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 120,
+        "prompt": "Design a movie poster for 'The Conductor,' showcasing a determined female protagonist with a baton and portfolio, set in an early 20th-century city.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 121,
+        "prompt": "Design a book cover featuring hands holding a bowl of colorful vegan dishes.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 122,
+        "prompt": "Design a movie poster showing two figures in white and red papal attire seated outdoors, engaged in conversation.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 123,
+        "prompt": "Create a colorful, illustrated poster celebrating London's diverse markets.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 124,
+        "prompt": "Create a travel promotion featuring global landmarks like the Statue of Liberty and Wat Arun.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 125,
+        "prompt": "Create a beginner-friendly book cover for kids about herbs.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 126,
+        "prompt": "Create a vibrant book cover for 'Cooking Comics' featuring a wooden table filled with colorful ingredients, tools, and dishes.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 127,
+        "prompt": "Create a vibrant movie poster featuring a child entering a magical garden through an ornate gate.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 128,
+        "prompt": "Design a vibrant collage featuring book covers from 2019, highlighting diverse genres and authors.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 129,
+        "prompt": "Design a promotional graphic for 'The Path to Freedom' online class.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 130,
+        "prompt": "Design a book cover with a whimsical floating house tethered to a hot air balloon, set against a sunset sky.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 131,
+        "prompt": "Design a poster with the theme 'Capturing the Magic of Childhood' using a photo captured by Holly Anwad as the background, creating a serene, magical ambiance.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 132,
+        "prompt": "Design a poster promoting green tea culture using bold Chinese calligraphy and flowing blue lines.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 133,
+        "prompt": "Design a calendar celebrating 'The New Yorker' covers, using a nostalgic construction worker on a beam over NYC as the centerpiece.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 134,
+        "prompt": "Create a nostalgic scene with an antique cookbook, 'How to Cook Vegetables,' a wooden spoon, and a flower on a white cloth.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 135,
+        "prompt": "Create a vibrant promotional graphic for Sora's ebook and audiobook service.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 136,
+        "prompt": "Create a book cover for the book 'The NEW YORKER' with whimsical illustration of a couple sharing a scarf/beard on a city street.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 137,
+        "prompt": "Create a vibrant London-themed poster using iconic landmarks like Big Ben and the London Eye.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 138,
+        "prompt": "Create a humorous alignment chart for 'Downton Abbey' characters using quotes and visuals.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 139,
+        "prompt": "Create a poster for 'THE NOBEL PEACE PRIZE 2021' with illustrated portrait honoring Maria Ressa and Dmitry Muratov for their efforts in safeguarding freedom of expression.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 140,
+        "prompt": "Design a poster with the title 'Do You Believe In Life After Death?', featuring a peaceful cemetery under a bright sky, with tombstones adorned with flowers.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 141,
+        "prompt": "Design a DVD cover for a historical drama set in the Scottish Highlands.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 142,
+        "prompt": "Design a documentary poster featuring a lone figure in a boat on calm waters, surrounded by tree silhouettes.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 143,
+        "prompt": "Design a vibrant cityscape coloring book cover with partially colored buildings to inspire creativity.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 144,
+        "prompt": "Create a colorful, engaging children's book cover featuring diverse forest animals.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 145,
+        "prompt": "Create a vibrant book cover with Einstein on a bike, surrounded by academic and creative symbols.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 146,
+        "prompt": "Design a poster for The BBC 'Doctor Who', featuring bamboo forest scene with the TARDIS and pandas, blending science fiction with nature.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 147,
+        "prompt": "Design a movie poster for 'The Conductor,' showcasing a determined female protagonist in early 20th-century attire, holding a baton and portfolio.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 148,
+        "prompt": "Create a charming illustration of two bunnies sharing morning tea outdoors, with the text 'Morning Tea' on the top.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 149,
+        "prompt": "Design a movie poster capturing Stefan Zweig's reflective exile.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 150,
+        "prompt": "Design a vibrant poster for 'Street Food Latin America' featuring a lively vendor scene with bold colors and clear text.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 151,
+        "prompt": "Design a promotional graphic for 'Rich Dad Poor Dad' using the book cover, coins in a jar with a growing plant, and scattered coins.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 152,
+        "prompt": "Create a book cover celebrating global women's diversity.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 153,
+        "prompt": "Design a movie poster showcasing the critical role of seeds in sustainability.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 154,
+        "prompt": "Design a book cover featuring 'CLIMATE JUSTICE' in large, green, plant-filled letters against a cracked, arid background.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 155,
+        "prompt": "Create a motivational poster for a novel writing workshop with the theme 'DON'T STOP NOW!' at Month 6, Chapter 6.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 156,
+        "prompt": "Create a vintage collage evoking old-fashioned romance.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 157,
+        "prompt": "Design a book cover for a science fiction anthology.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 158,
+        "prompt": "Design a colorful book cover featuring a caricature of Mozart playing the piano.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 159,
+        "prompt": "Design a vintage-style poster featuring a cat reading 'To Kill a Mockingbird.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 160,
+        "prompt": "Design a book cover illustrating humanity's future in space.",
+        "tag": "Real-world textual images"
+    },
+    {
+        "id": 161,
+        "prompt": "Design a clear, step-by-step assembly guide for building a stylish bookshelf using 3D renderings and visual cues.",
+        "tag": "Document"
+    },
+    {
+        "id": 162,
+        "prompt": "Design a clear calendar for parent-teacher meetings, listing dates, times, and discussion points.",
+        "tag": "Document"
+    },
+    {
+        "id": 163,
+        "prompt": "Design a newspaper layout highlighting AI's impact on education.",
+        "tag": "Document"
+    },
+    {
+        "id": 164,
+        "prompt": "Design a recipe card for picnic essentials, featuring easy-to-transport recipes like Chicken Caesar Salad Wraps and Caprese Pasta Salad.",
+        "tag": "Document"
+    },
+    {
+        "id": 165,
+        "prompt": "Design a recipe card for 'Farm-to-Table Family Omelette with Fresh Eggs' from Green Pastures Farm.",
+        "tag": "Document"
+    },
+    {
+        "id": 166,
+        "prompt": "Design a SWOT analysis for tourism's impact on Lovington, highlighting economic boost and cultural exchange as strengths.",
+        "tag": "Document"
+    },
+    {
+        "id": 167,
+        "prompt": "Design a vibrant ticket for Elegance Dance Studio's October 21, 2023 gala.",
+        "tag": "Document"
+    },
+    {
+        "id": 168,
+        "prompt": "Create a rustic barn-themed wedding invitation for Emma & Liam's June 24, 2024, event at The Grand Oak Barn.",
+        "tag": "Document"
+    },
+    {
+        "id": 169,
+        "prompt": "Create a vibrant advertisement for a virtual safari adventure featuring lions and elephants.",
+        "tag": "Document"
+    },
+    {
+        "id": 170,
+        "prompt": "Design an advertisement promoting sustainable building materials for eco-friendly construction.",
+        "tag": "Document"
+    },
+    {
+        "id": 171,
+        "prompt": "Design an agenda-style infographic on film editing evolution, from silent films to modern cinema.",
+        "tag": "Document"
+    },
+    {
+        "id": 172,
+        "prompt": "Design a business card for Neighborhood Nibbles & Sips, featuring custom beverage packages and services.",
+        "tag": "Document"
+    },
+    {
+        "id": 173,
+        "prompt": "Design a flyer summarizing agricultural trends and data, highlighting crop production, livestock growth, organic farming, AgTech adoption, sustainability efforts, and economic trade.",
+        "tag": "Document"
+    },
+    {
+        "id": 174,
+        "prompt": "Create a vibrant birthday card for a best friend using playful fonts and bright colors.",
+        "tag": "Document"
+    },
+    {
+        "id": 175,
+        "prompt": "Design a week-long itinerary exploring space-themed landmarks globally.",
+        "tag": "Document"
+    },
+    {
+        "id": 176,
+        "prompt": "Design a braille restaurant menu featuring popular dishes with detailed texture descriptions.",
+        "tag": "Document"
+    },
+    {
+        "id": 177,
+        "prompt": "Design a restaurant menu for 'Sweet Treats for Stress Relief,' featuring comforting desserts like Chocolate Lava Cake and Nutella Cheesecake.",
+        "tag": "Document"
+    },
+    {
+        "id": 178,
+        "prompt": "Design a restaurant menu highlighting farm-to-table specialties with locally sourced ingredients.",
+        "tag": "Document"
+    },
+    {
+        "id": 179,
+        "prompt": "Design a newsletter exploring social media's impact on celebrity reputation.",
+        "tag": "Document"
+    },
+    {
+        "id": 180,
+        "prompt": "Design a presentation slide on integrating mobile payments and online ordering.",
+        "tag": "Document"
+    },
+    {
+        "id": 181,
+        "prompt": "Design a bolded table showcasing 2023 funding allocations for climate resilience projects in Pacific Islands.",
+        "tag": "Table"
+    },
+    {
+        "id": 182,
+        "prompt": "Design a comparison table for beginner gardening tools, highlighting price, weight, ease of use, durability, purpose, senior suitability, and storage space.",
+        "tag": "Table"
+    },
+    {
+        "id": 183,
+        "prompt": "Design a clear decision table for medication schedules based on time, meal status, pain level, blood pressure, and power supply.",
+        "tag": "Table"
+    },
+    {
+        "id": 184,
+        "prompt": "Design a table comparing classic vs. contemporary literature preferences among competition participants. Highlight highest and lowest values in each category for emphasis.",
+        "tag": "Table"
+    },
+    {
+        "id": 185,
+        "prompt": "Design a table comparing holiday meal kit sales across retailers.",
+        "tag": "Table"
+    },
+    {
+        "id": 186,
+        "prompt": "Design a pivot table illustrating social service program participation rates among immigrant communities in major US cities.",
+        "tag": "Table"
+    },
+    {
+        "id": 187,
+        "prompt": "Design a tall table summarizing court order violations by type, frequency, percentage, and resolution time.",
+        "tag": "Table"
+    },
+    {
+        "id": 188,
+        "prompt": "Design a tall table summarizing self-defense class attendance stats.",
+        "tag": "Table"
+    },
+    {
+        "id": 189,
+        "prompt": "Design a wide table comparing social media platforms' data collection practices.",
+        "tag": "Table"
+    },
+    {
+        "id": 190,
+        "prompt": "Design a clear truth table showcasing tech firms' market share, revenue, and profit margin for 2023.",
+        "tag": "Table"
+    },
+    {
+        "id": 191,
+        "prompt": "Design a bottom-up flow chart illustrating pollination enhancement strategies for farms.",
+        "tag": "Diagram"
+    },
+    {
+        "id": 192,
+        "prompt": "Design a flowchart illustrating multi-factor authentication workflow.",
+        "tag": "Diagram"
+    },
+    {
+        "id": 193,
+        "prompt": "Design a flowchart illustrating the K-means clustering process in a 2D space.",
+        "tag": "Diagram"
+    },
+    {
+        "id": 194,
+        "prompt": "Design a flowchart illustrating the steps for organizing a classroom movie day, starting with deciding on a movie and ending with sending reminders.",
+        "tag": "Diagram"
+    },
+    {
+        "id": 195,
+        "prompt": "Design a Sankey diagram illustrating the distribution of study methods (Reading, Group Study, Practice Exams) and their effectiveness levels (Low, Medium, High).",
+        "tag": "Diagram"
+    },
+    {
+        "id": 196,
+        "prompt": "Design a sequence diagram illustrating the 10-step process for planning a country music concert overlapping with classic rock events.",
+        "tag": "Diagram"
+    },
+    {
+        "id": 197,
+        "prompt": "Design a data flow diagram illustrating childcare scheduling and cost tracking.",
+        "tag": "Diagram"
+    },
+    {
+        "id": 198,
+        "prompt": "Design a network diagram illustrating the information exchange for marine biomaterials research.",
+        "tag": "Diagram"
+    },
+    {
+        "id": 199,
+        "prompt": "Design an undirected graph illustrating relationships among golf apparel and accessories.",
+        "tag": "Diagram"
+    },
+    {
+        "id": 200,
+        "prompt": "Design an undirected graph illustrating Obamacare's impact on patient outcomes.",
+        "tag": "Diagram"
+    }
+]

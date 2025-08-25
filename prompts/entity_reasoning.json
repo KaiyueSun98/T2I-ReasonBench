@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "prompt": "The city hosting the first modern Olympic Games",
+        "explicit_meaning": "Athens hosting the first modern Olympic Games",
+        "tag": "Event"
+    },
+    {
+        "id": 2,
+        "prompt": "The city hosting the Summer Olympics in 2008",
+        "explicit_meaning": "Beijing hosting the Summer Olympics in 2008",
+        "tag": "Event"
+    },
+    {
+        "id": 3,
+        "prompt": "The city hosting the Winter Olympics in 2002",
+        "explicit_meaning": "Salt Lake City hosting the Winter Olympics in 2002",
+        "tag": "Event"
+    },
+    {
+        "id": 4,
+        "prompt": "The city hosting the Summer Olympics in 2021",
+        "explicit_meaning": "Tokyo hosting the Summer Olympics in 2021",
+        "tag": "Event"
+    },
+    {
+        "id": 5,
+        "prompt": "The country winning three consecutive FIFA World Cups (1958-1962-1970)",
+        "explicit_meaning": "Brazil securing three consecutive FIFA World Cup victories (1958-1962-1970)",
+        "tag": "Event"
+    },
+    {
+        "id": 6,
+        "prompt": "The country winning the FIFA World Cup in 2014",
+        "explicit_meaning": "Germany winning the FIFA World Cup in 2014",
+        "tag": "Event"
+    },
+    {
+        "id": 7,
+        "prompt": "The team lifting the trophy at the 2022 FIFA World Cup",
+        "explicit_meaning": "Argentina team lifting the trophy at the 2022 FIFA World Cup",
+        "tag": "Event"
+    },
+    {
+        "id": 8,
+        "prompt": "The nation winning the FIFA Women's World Cup in 2019",
+        "explicit_meaning": "United States team winning the FIFA Women's World Cup in 2019",
+        "tag": "Event"
+    },
+    {
+        "id": 9,
+        "prompt": "The basketball team winning 6 NBA championships in the 1990s",
+        "explicit_meaning": "Chicago Bulls winning 6 NBA championships in the 1990s",
+        "tag": "Event"
+    },
+    {
+        "id": 10,
+        "prompt": "The film trilogy winning 11 Oscars at the 2004 Academy Awards",
+        "explicit_meaning": "The Lord of the Rings trilogy winning 11 Oscars at the 2004 Academy Awards",
+        "tag": "Event"
+    },
+    {
+        "id": 11,
+        "prompt": "The film winning Best Animated Feature at the 2014 Academy Awards",
+        "explicit_meaning": "Frozen winning Best Animated Feature at the 2014 Academy Awards",
+        "tag": "Event"
+    },
+    {
+        "id": 12,
+        "prompt": "The film receiving 14 Oscar nominations at the 2020 Academy Awards",
+        "explicit_meaning": "Joker receiving 14 Oscar nominations at the 2020 Academy Awards",
+        "tag": "Event"
+    },
+    {
+        "id": 13,
+        "prompt": "The TV series winning Outstanding Drama Emmy in 2019",
+        "explicit_meaning": "Game of Thrones winning Outstanding Drama Emmy in 2019",
+        "tag": "Event"
+    },
+    {
+        "id": 14,
+        "prompt": "The city was destroyed in 79 AD when a nearby volcano erupted",
+        "explicit_meaning": "Pompeii was destroyed in 79 AD when a nearby volcano erupted",
+        "tag": "Event"
+    },
+    {
+        "id": 15,
+        "prompt": "The coastal city was flooded by a Category 5 storm in 2005",
+        "explicit_meaning": "New Orleans was flooded by a Category 5 storm in 2005",
+        "tag": "Event"
+    },
+    {
+        "id": 16,
+        "prompt": "The town where 95% of structures were demolished by a tornado in 2007",
+        "explicit_meaning": "95% of structures in Greensburg were demolished by a tornado in 2007",
+        "tag": "Event"
+    },
+    {
+        "id": 17,
+        "prompt": "The medieval building was destroyed by a 6.2 magnitude quake in 2016",
+        "explicit_meaning": "Norcia's 14th-century basilica was destroyed by a 6.2 magnitude quake in 2016",
+        "tag": "Event"
+    },
+    {
+        "id": 18,
+        "prompt": "The ship sinking after hitting an iceberg in 1912",
+        "explicit_meaning": "RMS Titanic sinking after hitting an iceberg in 1912",
+        "tag": "Event"
+    },
+    {
+        "id": 19,
+        "prompt": "The invention patented as the first practical telephone in 1876",
+        "explicit_meaning": "Alexander Graham Bell patenting the first practical telephone in 1876",
+        "tag": "Event"
+    },
+    {
+        "id": 20,
+        "prompt": "The spacecraft landing humans on the Moon in 1969",
+        "explicit_meaning": "Apollo 11 landing humans on the Moon in 1969",
+        "tag": "Event"
+    },
+    {
+        "id": 21,
+        "prompt": "The rover exploring Mars' Gale Crater since 2012",
+        "explicit_meaning": "Curiosity rover conducting exploration in Mars' Gale Crater since 2012",
+        "tag": "Event"
+    },
+    {
+        "id": 22,
+        "prompt": "The first mammal successfully cloned from an adult somatic cell in 1996",
+        "explicit_meaning": "Dolly the Sheep becoming the first cloned mammal from adult cells in 1996",
+        "tag": "Event"
+    },
+    {
+        "id": 23,
+        "prompt": "The AI program defeating Lee Sedol in the board game Go in 2016",
+        "explicit_meaning": "AlphaGo defeating Lee Sedol in the board game Go in 2016",
+        "tag": "Event"
+    },
+    {
+        "id": 24,
+        "prompt": "The Prime Minister entering 10 Downing Street in 2013",
+        "explicit_meaning": "David Cameron entering 10 Downing Street as Prime Minister in 2013",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 25,
+        "prompt": "The Chancellor addressing the Bundestag on refugee policy in 2015",
+        "explicit_meaning": "Angela Merkel addressing the Bundestag on refugee policy in 2015",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 26,
+        "prompt": "The President signing the Affordable Care Act in 2010",
+        "explicit_meaning": "Barack Obama signing the Affordable Care Act into law in 2010",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 27,
+        "prompt": "The US president giving a speech at Brandenburg Gate in 1987",
+        "explicit_meaning": "Ronald Reagan giving a speech at Brandenburg Gate in 1987",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 28,
+        "prompt": "The First Elected President taking office in South Africa in 1994",
+        "explicit_meaning": "Nelson Mandela, the First Elected President taking office in South Africa in 1994",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 29,
+        "prompt": "The President signing the Emancipation Proclamation in 1863",
+        "explicit_meaning": "Abraham Lincoln signing the Emancipation Proclamation in 1863",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 30,
+        "prompt": "The CEO presenting the first iPod at a 2001 Apple event",
+        "explicit_meaning": "Steve Jobs presenting the first iPod at a 2001 Apple event",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 31,
+        "prompt": "The CEO of Tesla unveiling the first electric car in 2008",
+        "explicit_meaning": "Elon Musk unveiling the first electric car at Tesla in 2008",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 32,
+        "prompt": "The CEO of Microsoft announcing Windows 95 in 1995",
+        "explicit_meaning": "Bill Gates announcing Windows 95 at Microsoft in 1995",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 33,
+        "prompt": "The CEO of Amazon launching the Kindle in 2007",
+        "explicit_meaning": "Jeff Bezos launching the Kindle at Amazon in 2007",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 34,
+        "prompt": "The CEO of Facebook announcing the acquisition of Instagram at Facebook in 2012",
+        "explicit_meaning": "Mark Zuckerberg announcing the acquisition of Instagram at Facebook in 2012",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 35,
+        "prompt": "The CEO of Google launching the first Android phone in 2008",
+        "explicit_meaning": "Sundar Pichai launching the first Android phone at Google in 2008",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 36,
+        "prompt": "The CEO of Twitter announcing the platform's IPO in 2013",
+        "explicit_meaning": "Jack Dorsey announcing Twitter's IPO in 2013",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 37,
+        "prompt": "The CEO of Netflix announcing the launch of streaming service in 2007",
+        "explicit_meaning": "Reed Hastings announcing the launch of Netflix's streaming service in 2007",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 38,
+        "prompt": "The swimmer earning 8 gold medals at the 2008 Olympics",
+        "explicit_meaning": "Michael Phelps earning 8 gold medals at the 2008 Olympics",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 39,
+        "prompt": "The athlete setting the 100m world record of 9.58 seconds in 2009",
+        "explicit_meaning": "Usain Bolt setting the 100m world record of 9.58 seconds in 2009",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 40,
+        "prompt": "The tennis player winning 23 Grand Slam singles titles by 2023",
+        "explicit_meaning": "Novak Djokovic winning 23 Grand Slam singles titles by 2023",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 41,
+        "prompt": "The figure skater landing triple axel jumps at the 2018 Winter Olympics",
+        "explicit_meaning": "Alina Zagitova landing triple axel jumps at the 2018 Winter Olympics",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 42,
+        "prompt": "The swimmer breaking 400m individual medley world record at 2020 Olympics",
+        "explicit_meaning": "Caeleb Dressel breaking 400m individual medley world record at 2020 Olympics",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 43,
+        "prompt": "The gymnast winning 4 gold medals at 2016 Rio Olympics",
+        "explicit_meaning": "Simone Biles winning 4 gold medals at 2016 Rio Olympics",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 44,
+        "prompt": "The first woman to receive a Nobel Prize in 1903",
+        "explicit_meaning": "Marie Curie, the first woman awarded the Nobel Prize in Physics in 1903",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 45,
+        "prompt": "The actress winning an Oscar for her role in 'La La Land' in 2017",
+        "explicit_meaning": "Emma Stone winning an Oscar for her role in 'La La Land' in 2017",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 46,
+        "prompt": "The actress winning an Oscar for her role in 'Black Swan' in 2011",
+        "explicit_meaning": "Natalie Portman winning an Oscar for her role in 'Black Swan' in 2011",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 47,
+        "prompt": "The actor winning an Oscar for his role in 'The King's Speech' in 2011",
+        "explicit_meaning": "Colin Firth winning an Oscar for his role in 'The King's Speech' in 2011",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 48,
+        "prompt": "The actor winning an Oscar for his role in 'Dallas Buyers Club' in 2014",
+        "explicit_meaning": "Matthew McConaughey winning an Oscar for his role in 'Dallas Buyers Club' in 2014",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 49,
+        "prompt": "The actress winning an Oscar for her role in 'Gravity' in 2014",
+        "explicit_meaning": "Sandra Bullock winning an Oscar for her role in 'Gravity' in 2014",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 50,
+        "prompt": "The actor winning an Oscar for his role in 'A Beautiful Mind' in 2002",
+        "explicit_meaning": "Russell Crowe winning an Oscar for his role in 'A Beautiful Mind' in 2002",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 51,
+        "prompt": "The actress winning an Oscar for her role in 'The Reader' in 2009",
+        "explicit_meaning": "Kate Winslet winning an Oscar for her role in 'The Reader' in 2009",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 52,
+        "prompt": "The people who complete the first successful ascent of Mount Everest in 1953",
+        "explicit_meaning": "Edmund Hillary and Tenzing Norgay completing the first ascent of Mount Everest in 1953",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 53,
+        "prompt": "The author publishing the first Harry Potter novel 'Harry Potter and the Philosopher's Stone' in 1997",
+        "explicit_meaning": "J.K. Rowling publishing the first Harry Potter novel 'Harry Potter and the Philosopher's Stone' in 1997",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 54,
+        "prompt": "The author writing 'Pride and Prejudice' in 1813",
+        "explicit_meaning": "Jane Austen writing 'Pride and Prejudice' in 1813",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 55,
+        "prompt": "The actor portraying the character of Jack Dawson in Titanic",
+        "explicit_meaning": "Leonardo DiCaprio portraying Jack Dawson in Titanic",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 56,
+        "prompt": "The actor portraying the character of Tony Stark in the Marvel Cinematic Universe",
+        "explicit_meaning": "Robert Downey Jr. portraying Tony Stark in the Marvel Cinematic Universe",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 57,
+        "prompt": "The actress portraying the character of Hermione Granger in the Harry Potter series",
+        "explicit_meaning": "Emma Watson portraying Hermione Granger in the Harry Potter series",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 58,
+        "prompt": "The actress portraying the character of Katniss Everdeen in The Hunger Games series",
+        "explicit_meaning": "Jennifer Lawrence portraying Katniss Everdeen in The Hunger Games series",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 59,
+        "prompt": "The actor portraying the character of Jack Sparrow in the Pirates of the Caribbean series",
+        "explicit_meaning": "Johnny Depp portraying Jack Sparrow in the Pirates of the Caribbean series",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 60,
+        "prompt": "The actor portraying the character of Bruce Wayne in The Dark Knight trilogy",
+        "explicit_meaning": "Christian Bale portraying Bruce Wayne in The Dark Knight trilogy",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 61,
+        "prompt": "The musician known for the song 'Thriller' released in 1982",
+        "explicit_meaning": "Michael Jackson known for the song 'Thriller' released in 1982",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 62,
+        "prompt": "The musician performing at the Super Bowl halftime show in 2020",
+        "explicit_meaning": "Shakira performing at the Super Bowl halftime show in 2020",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 63,
+        "prompt": "The musician known for the song 'Shape of You' released in 2017",
+        "explicit_meaning": "Ed Sheeran known for the song 'Shape of You' released in 2017",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 64,
+        "prompt": "The musician known for the song 'Rolling in the Deep' released in 2010",
+        "explicit_meaning": "Adele known for the song 'Rolling in the Deep' released in 2010",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 65,
+        "prompt": "The artist painting the Mona Lisa in the 16th century",
+        "explicit_meaning": "Leonardo da Vinci painting the Mona Lisa in the 16th century",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 66,
+        "prompt": "The artist creating 'The Starry Night' in 1889",
+        "explicit_meaning": "Vincent van Gogh creating 'The Starry Night' in 1889",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 67,
+        "prompt": "The artist sculpting 'David' in marble in 1504",
+        "explicit_meaning": "Michelangelo sculpting 'David' in marble in 1504",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 68,
+        "prompt": "The artist painting 'The Last Supper' in the 15th century",
+        "explicit_meaning": "Leonardo da Vinci painting 'The Last Supper' in the 15th century",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 69,
+        "prompt": "The artist creating 'The Persistence of Memory' in 1931",
+        "explicit_meaning": "Salvador Dalí creating 'The Persistence of Memory' in 1931",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 70,
+        "prompt": "The scientist discovering penicillin in 1928",
+        "explicit_meaning": "Alexander Fleming discovering penicillin in 1928",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 71,
+        "prompt": "The scientist proposing the theory of evolution in 1859",
+        "explicit_meaning": "Charles Darwin proposing the theory of evolution in 1859",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 72,
+        "prompt": "The scientist formulating the laws of motion and universal gravitation in 1687",
+        "explicit_meaning": "Isaac Newton formulating the laws of motion and universal gravitation in 1687",
+        "tag": "Celebrity"
+    },
+    {
+        "id": 73,
+        "prompt": "The bronze vessel with taotie motifs cast during the Shang Dynasty",
+        "explicit_meaning": "Simuwu Ding with taotie motifs cast during the Shang Dynasty",
+        "tag": "Artifact"
+    },
+    {
+        "id": 74,
+        "prompt": "The ceramic ware with cobalt patterns exported globally from 15th-century China",
+        "explicit_meaning": "Blue-and-White Porcelain exported globally from 15th-century China",
+        "tag": "Artifact"
+    },
+    {
+        "id": 75,
+        "prompt": "The writing implement with replaceable lead cores enabling erasable writing for centuries",
+        "explicit_meaning": "Pencil enabling erasable writing for centuries",
+        "tag": "Artifact"
+    },
+    {
+        "id": 76,
+        "prompt": "In Han Dynasty China, a farmer maneuvers a tool with curved iron blade through the rich soil, preparing it for planting",
+        "explicit_meaning": "In Han Dynasty China, a farmer maneuvers an iron plow through the rich soil, preparing it for planting",
+        "tag": "Artifact"
+    },
+    {
+        "id": 77,
+        "prompt": "The timekeeping device with water-driven gears built in 8th-century Baghdad",
+        "explicit_meaning": "Elephant Clock was built in 8th-century Baghdad",
+        "tag": "Artifact"
+    },
+    {
+        "id": 78,
+        "prompt": "The writing surface made from animal skins used in medieval Europe preserving illuminated manuscripts for centuries",
+        "explicit_meaning": "Parchment used in medieval Europe preserving illuminated manuscripts for centuries",
+        "tag": "Artifact"
+    },
+    {
+        "id": 79,
+        "prompt": "The note with low-tack adhesive transforming office communication since 1974",
+        "explicit_meaning": "Post-it Note transforming office communication since 1974",
+        "tag": "Artifact"
+    },
+    {
+        "id": 80,
+        "prompt": "The traditional Japanese garment with wide sleeves secured by a belt",
+        "explicit_meaning": "Kimono with wide sleeves secured by an obi belt",
+        "tag": "Artifact"
+    },
+    {
+        "id": 81,
+        "prompt": "The ancient Greek silver coin stamped with Athena's owl symbol",
+        "explicit_meaning": "Drachma stamped with Athena's owl symbol",
+        "tag": "Artifact"
+    },
+    {
+        "id": 82,
+        "prompt": "The West African percussion instrument made of calabash covered with beads",
+        "explicit_meaning": "Shekere made of calabash covered with beads",
+        "tag": "Artifact"
+    },
+    {
+        "id": 83,
+        "prompt": "The Viking-era warship decorated with carved dragon heads at the prow",
+        "explicit_meaning": "Drakkar decorated with carved dragon heads at the prow",
+        "tag": "Artifact"
+    },
+    {
+        "id": 84,
+        "prompt": "The Mesoamerican ceremonial dagger forged from volcanic glass",
+        "explicit_meaning": "Obsidian Macuahuitl forged from volcanic glass",
+        "tag": "Artifact"
+    },
+    {
+        "id": 85,
+        "prompt": "The Chinese folding screen with lacquered panels depicting mountain landscapes",
+        "explicit_meaning": "Coromandel Screen with lacquered panels depicting mountain landscapes",
+        "tag": "Artifact"
+    },
+    {
+        "id": 86,
+        "prompt": "The Andean woolen garment woven with geometric patterns symbolizing community status",
+        "explicit_meaning": "Poncho woven with geometric patterns symbolizing community status",
+        "tag": "Artifact"
+    },
+    {
+        "id": 87,
+        "prompt": "The Renaissance-era string instrument played with a horsehair bow",
+        "explicit_meaning": "Violin played with a horsehair bow",
+        "tag": "Artifact"
+    },
+    {
+        "id": 88,
+        "prompt": "The Egyptian writing material made from river plant stems pressed into sheets",
+        "explicit_meaning": "Papyrus made from river plant stems pressed into sheets",
+        "tag": "Artifact"
+    },
+    {
+        "id": 89,
+        "prompt": "The car with stainless steel angular body unveiled in 2019",
+        "explicit_meaning": "Tesla Cybertruck with stainless steel angular body unveiled in 2019",
+        "tag": "Artifact"
+    },
+    {
+        "id": 90,
+        "prompt": "The smartphone with multi-touch display introduced in 2007",
+        "explicit_meaning": "iPhone with multi-touch display revolutionized smartphones in 2007",
+        "tag": "Artifact"
+    },
+    {
+        "id": 91,
+        "prompt": "The social media platform using blue bird logo until 2023",
+        "explicit_meaning": "Twitter using blue bird logo before 2023",
+        "tag": "Artifact"
+    },
+    {
+        "id": 92,
+        "prompt": "The handheld payment terminal accepting contactless transactions via NFC chip",
+        "explicit_meaning": "POS Machine accepting contactless transactions via NFC chip",
+        "tag": "Artifact"
+    },
+    {
+        "id": 93,
+        "prompt": "The kitchen appliance with magnetic accessory attachments for blending and chopping",
+        "explicit_meaning": "Stand Mixer with magnetic accessory attachments for blending and chopping",
+        "tag": "Artifact"
+    },
+    {
+        "id": 94,
+        "prompt": "The urban mobility device with gyroscopic self-balancing and LED wheel lights",
+        "explicit_meaning": "Hoverboard with gyroscopic self-balancing and LED wheel lights",
+        "tag": "Artifact"
+    },
+    {
+        "id": 95,
+        "prompt": "The cleaning appliance with cyclonic suction technology and detachable dustbin",
+        "explicit_meaning": "Vacuum Cleaner with cyclonic suction technology and detachable dustbin",
+        "tag": "Artifact"
+    },
+    {
+        "id": 96,
+        "prompt": "The robotic cat mascot with red bow inspiring generations of Japanese children since 1970",
+        "explicit_meaning": "Doraemon inspiring generations of Japanese children since 1970",
+        "tag": "Artifact"
+    },
+    {
+        "id": 97,
+        "prompt": "The mascot holding Olympic torch in 2018 Winter Games",
+        "explicit_meaning": "Soohorang the tiger mascot holding Olympic torch in 2018 Winter Games",
+        "tag": "Artifact"
+    },
+    {
+        "id": 98,
+        "prompt": "The pink cat without mouth greeting fans from Sanrio products",
+        "explicit_meaning": "Hello Kitty greeting fans from Sanrio products",
+        "tag": "Artifact"
+    },
+    {
+        "id": 99,
+        "prompt": "The mascot becoming Beijing 2022 Winter Olympics' viral mascot sensation",
+        "explicit_meaning": "Bing Dwen Dwen becoming Beijing 2022 Winter Olympics' viral mascot sensation",
+        "tag": "Artifact"
+    },
+    {
+        "id": 100,
+        "prompt": "The green statue holding torch in New York Harbor",
+        "explicit_meaning": "Statue of Liberty standing with torch in New York Harbor",
+        "tag": "Architecture"
+    },
+    {
+        "id": 101,
+        "prompt": "The white marble mausoleum in India mirrored in moonlit river",
+        "explicit_meaning": "The white marble mausoleum in India, Taj Mahal, mirrored in moonlit river",
+        "tag": "Architecture"
+    },
+    {
+        "id": 102,
+        "prompt": "The neo-Gothic clock tower near Westminster Bridge in London",
+        "explicit_meaning": "Big Ben, the neo-Gothic clock tower near Westminster Bridge in London",
+        "tag": "Architecture"
+    },
+    {
+        "id": 103,
+        "prompt": "The ancient amphitheater in Rome hosting gladiatorial games",
+        "explicit_meaning": "Colosseum, the ancient amphitheater in Rome hosting gladiatorial games",
+        "tag": "Architecture"
+    },
+    {
+        "id": 104,
+        "prompt": "The ancient temple complex in Cambodia with stone carvings",
+        "explicit_meaning": "Angkor Wat, the ancient temple complex in Cambodia with stone carvings",
+        "tag": "Architecture"
+    },
+    {
+        "id": 105,
+        "prompt": "The unfinished basilica with organic stone spires in Barcelona",
+        "explicit_meaning": "Sagrada Família, the unfinished basilica with organic stone spires in Barcelona",
+        "tag": "Architecture"
+    },
+    {
+        "id": 106,
+        "prompt": "The golden-domed Orthodox cathedral on Moscow's Red Square",
+        "explicit_meaning": "Saint Basil's Cathedral, the golden-domed Orthodox cathedral on Moscow's Red Square",
+        "tag": "Architecture"
+    },
+    {
+        "id": 107,
+        "prompt": "The glass pyramid entrance to Parisian art museum",
+        "explicit_meaning": "Louvre Pyramid, the glass pyramid entrance to Parisian art museum",
+        "tag": "Architecture"
+    },
+    {
+        "id": 108,
+        "prompt": "The Gothic cathedral with fire-damaged spire under reconstruction in France",
+        "explicit_meaning": "Notre-Dame de Paris, the Gothic cathedral with fire-damaged spire under reconstruction in Paris",
+        "tag": "Architecture"
+    },
+    {
+        "id": 109,
+        "prompt": "The tower serving as the main landmark of the 1889 Paris Exposition",
+        "explicit_meaning": "Eiffel Tower standing as the main landmark of the 1889 Paris Exposition",
+        "tag": "Architecture"
+    },
+    {
+        "id": 110,
+        "prompt": "The 71-meter stone Buddha carved into a cliff in Sichuan",
+        "explicit_meaning": "Leshan Giant Buddha carved into a cliff in Sichuan",
+        "tag": "Architecture"
+    },
+    {
+        "id": 111,
+        "prompt": "The serpentine defensive structure winding across northern China",
+        "explicit_meaning": "The Great Wall winding across northern China",
+        "tag": "Architecture"
+    },
+    {
+        "id": 112,
+        "prompt": "The crimson-walled imperial palace complex in Beijing",
+        "explicit_meaning": "Forbidden City, the crimson-walled imperial palace complex in Beijing",
+        "tag": "Architecture"
+    },
+    {
+        "id": 113,
+        "prompt": "The triple-tiered circular altar where emperors prayed for harvests under Heaven's Mandate",
+        "explicit_meaning": "Temple of Heaven where emperors prayed for harvests in Beijing",
+        "tag": "Architecture"
+    },
+    {
+        "id": 114,
+        "prompt": "The steel lattice Olympic stadium resembling a bird's nest",
+        "explicit_meaning": "Beijing National Stadium (Bird's Nest) resembling a steel bird's nest",
+        "tag": "Architecture"
+    },
+    {
+        "id": 115,
+        "prompt": "The whitewashed palace fortress perched on Red Mountain embodying Tibetan Buddhist cosmology",
+        "explicit_meaning": "Potala Palace, the whitewashed palace fortress perched on Red Mountain embodying Tibetan Buddhist cosmology",
+        "tag": "Architecture"
+    },
+    {
+        "id": 116,
+        "prompt": "The golden-domed Islamic shrine on Temple Mount with octagonal blue-tiled walls",
+        "explicit_meaning": "Dome of the Rock, with golden dome and blue tiles on Temple Mount",
+        "tag": "Architecture"
+    },
+    {
+        "id": 117,
+        "prompt": "The spiraling titanium curves of a contemporary art museum resembling a metallic flower",
+        "explicit_meaning": "Guggenheim Museum Bilbao with titanium curves resembling metallic flower",
+        "tag": "Architecture"
+    },
+    {
+        "id": 118,
+        "prompt": "The 828-meter skyscraper in Dubai with stepped terrace design inspired by desert flowers",
+        "explicit_meaning": "Burj Khalifa with stepped terraces inspired by desert flowers in Dubai",
+        "tag": "Architecture"
+    },
+    {
+        "id": 119,
+        "prompt": "The artificial islands shaped like palm trees creating 520 kilometers of new Dubai coastline",
+        "explicit_meaning": "Palm Jumeirah, the artificial islands shaped like palm trees creating 520 kilometers of new Dubai coastline",
+        "tag": "Architecture"
+    },
+    {
+        "id": 120,
+        "prompt": "The 2.3-kilometer bridge with orange towers suspending roadways over San Francisco Bay",
+        "explicit_meaning": "Golden Gate Bridge, the 2.3-kilometer bridge with orange towers suspending roadways over San Francisco Bay",
+        "tag": "Architecture"
+    },
+    {
+        "id": 121,
+        "prompt": "Rainbow-colored hot spring steaming in Yellowstone",
+        "explicit_meaning": "Rainbow-colored hot springs, Grand Prismatic Spring, steaming in Yellowstone",
+        "tag": "Nature"
+    },
+    {
+        "id": 122,
+        "prompt": "The desert with unique rock formations in Arizona",
+        "explicit_meaning": "Monument Valley, the desert with unique rock formations in Arizona",
+        "tag": "Nature"
+    },
+    {
+        "id": 123,
+        "prompt": "The lake with pink waters and salt flats in Australia",
+        "explicit_meaning": "Lake Hillier with pink waters and salt flats in Australia",
+        "tag": "Nature"
+    },
+    {
+        "id": 124,
+        "prompt": "The rock formation resembling a giant arch in Utah",
+        "explicit_meaning": "Delicate Arch, the rock formation resembling a giant arch in Utah",
+        "tag": "Nature"
+    },
+    {
+        "id": 125,
+        "prompt": "The rock formation resembling a giant wave in Arizona",
+        "explicit_meaning": "The Wave, the rock formation resembling a giant wave in Arizona",
+        "tag": "Nature"
+    },
+    {
+        "id": 126,
+        "prompt": "Terraced limestone pools cascading down mountainside in Turkey",
+        "explicit_meaning": "Pamukkale Travertines with terraced limestone pools cascading down mountainside in Turkey",
+        "tag": "Nature"
+    },
+    {
+        "id": 127,
+        "prompt": "Giant rock formations rising from desert floor in Australia",
+        "explicit_meaning": "Uluru with giant rock formations rising from desert floor",
+        "tag": "Nature"
+    },
+    {
+        "id": 128,
+        "prompt": "The rock formation resembling a giant hand in Chile",
+        "explicit_meaning": "Hand of the Desert, the rock formation resembling a giant hand in Chile",
+        "tag": "Nature"
+    },
+    {
+        "id": 129,
+        "prompt": "Rainbow-striped mountain peak in Andean desert",
+        "explicit_meaning": "Vinicunca Mountain with rainbow-striped peak in Andean desert",
+        "tag": "Nature"
+    },
+    {
+        "id": 130,
+        "prompt": "Emerald-green crater lake atop a volcano in Alaska",
+        "explicit_meaning": "Mount Katmai's Crater Lake with emerald-green waters in Alaska",
+        "tag": "Nature"
+    },
+    {
+        "id": 131,
+        "prompt": "Cherry blossom petals swirling around the snow-capped volcano in Japan",
+        "explicit_meaning": "Cherry blossom petals swirling around the snow-capped volcano, Mount Fuji, in Japan",
+        "tag": "Nature"
+    },
+    {
+        "id": 132,
+        "prompt": "The ancient stone circle in Wiltshire, England",
+        "explicit_meaning": "Stonehenge, the ancient stone circle in Wiltshire, England",
+        "tag": "Nature"
+    },
+    {
+        "id": 133,
+        "prompt": "The immense gorge carved by the Colorado River exposing layered red rock formations",
+        "explicit_meaning": "Grand Canyon carved by the Colorado River exposing layered red rock formations",
+        "tag": "Nature"
+    },
+    {
+        "id": 134,
+        "prompt": "The waterfall spanning Zambia and Zimbabwe with 1.7km-wide curtain of falling water",
+        "explicit_meaning": "Victoria Falls spanning Zambia and Zimbabwe with 1.7km-wide curtain of falling water",
+        "tag": "Nature"
+    },
+    {
+        "id": 135,
+        "prompt": "The hypersaline lake at Earth's lowest elevation where swimmers float effortlessly on water",
+        "explicit_meaning": "Dead Sea at Earth's lowest elevation where swimmers float effortlessly on water",
+        "tag": "Nature"
+    },
+    {
+        "id": 136,
+        "prompt": "The thundering waterfall system on US-Canada border shaped like horseshoe and bridal veil",
+        "explicit_meaning": "Niagara Falls shaped like horseshoe and bridal veil on US-Canada border",
+        "tag": "Nature"
+    },
+    {
+        "id": 137,
+        "prompt": "The animal with spiral tusk swimming in Arctic waters",
+        "explicit_meaning": "Narwhal with spiral tusk swimming in Arctic waters",
+        "tag": "Animal"
+    },
+    {
+        "id": 138,
+        "prompt": "The animal laying eggs in Australian rivers",
+        "explicit_meaning": "Platypus laying eggs in Australian rivers",
+        "tag": "Animal"
+    },
+    {
+        "id": 139,
+        "prompt": "The fish producing electric shocks in Amazon Basin",
+        "explicit_meaning": "The fish, Electric eel, producing electric shocks in Amazon waters",
+        "tag": "Animal"
+    },
+    {
+        "id": 140,
+        "prompt": "The ape building nests in African rainforest canopy",
+        "explicit_meaning": "Chimpanzee constructing leafy nest in treetops",
+        "tag": "Animal"
+    },
+    {
+        "id": 141,
+        "prompt": "The animal sleeping 20 hours daily in eucalyptus trees",
+        "explicit_meaning": "Koala sleeping 20 hours daily in eucalyptus trees",
+        "tag": "Animal"
+    },
+    {
+        "id": 142,
+        "prompt": "The bird performing elaborate dance with spread tail feathers",
+        "explicit_meaning": "The bird, Peacock, performing elaborate dance with spread tail feathers",
+        "tag": "Animal"
+    },
+    {
+        "id": 143,
+        "prompt": "The blue-footed bird performing courtship dance on rocky islands",
+        "explicit_meaning": "The blue-footed-footed bird, Galapagos Booby, showing vibrant blue feet during mating ritual",
+        "tag": "Animal"
+    },
+    {
+        "id": 144,
+        "prompt": "The animal camouflaged in Himalayan rocks while stalking prey",
+        "explicit_meaning": "Snow leopard camouflaged in Himalayan rocks while stalking prey",
+        "tag": "Animal"
+    },
+    {
+        "id": 145,
+        "prompt": "The venomous lizard hunting water buffalo on islands",
+        "explicit_meaning": "he venomous lizard, Komodo Dragon, hunting water buffalo on islands",
+        "tag": "Animal"
+    },
+    {
+        "id": 146,
+        "prompt": "The eight-armed mollusk changing colors in coral reefs",
+        "explicit_meaning": "The eight-armed mollusk, Octopus, changing colors in coral reefs",
+        "tag": "Animal"
+    },
+    {
+        "id": 147,
+        "prompt": "The bear swimming between ice floes in Arctic",
+        "explicit_meaning": "Polar Bear swimming between ice floes in Arctic",
+        "tag": "Animal"
+    },
+    {
+        "id": 148,
+        "prompt": "The bird with long beak feeding on nectar in tropical forests",
+        "explicit_meaning": "Hummingbird with long beak feeding on nectar in tropical forests",
+        "tag": "Animal"
+    },
+    {
+        "id": 149,
+        "prompt": "The animal with long neck browsing treetops in African savanna",
+        "explicit_meaning": "The animal with long neck, Giraffe, browsing treetops in African savanna",
+        "tag": "Animal"
+    },
+    {
+        "id": 150,
+        "prompt": "The insect mimicking leaves for camouflage in rainforests",
+        "explicit_meaning": "Leaf Insect mimicking leaves for camouflage in rainforests",
+        "tag": "Animal"
+    },
+    {
+        "id": 151,
+        "prompt": "The animal with black and white stripes grazing in African grasslands",
+        "explicit_meaning": "Zebra with black and white stripes grazing in African grasslands",
+        "tag": "Animal"
+    },
+    {
+        "id": 152,
+        "prompt": "The monkey with long tail and prehensile toes swinging through trees in tropical forests",
+        "explicit_meaning": "Spider Monkey swinging through trees in tropical forests with long tail and prehensile toes",
+        "tag": "Animal"
+    },
+    {
+        "id": 153,
+        "prompt": "The animal with large antlers grazing in North American forests",
+        "explicit_meaning": "Moose with large antlers grazing in North American forests",
+        "tag": "Animal"
+    },
+    {
+        "id": 154,
+        "prompt": "The bird with colorful plumage and long tail feathers perched on branch in tropical rainforests",
+        "explicit_meaning": "Macaw with colorful plumage and long tail feathers perched on branch in tropical rainforests",
+        "tag": "Animal"
+    },
+    {
+        "id": 155,
+        "prompt": "The animal with long snout and sharp claws foraging for ants in South American jungles",
+        "explicit_meaning": "Anteater with long snout and sharp claws foraging for ants in South American jungles",
+        "tag": "Animal"
+    },
+    {
+        "id": 156,
+        "prompt": "The black-and-white animal eating bamboo in Chinese mountain forests",
+        "explicit_meaning": "Giant Panda with black-and-white fur eating bamboo in Chinese mountain forests",
+        "tag": "Animal"
+    },
+    {
+        "id": 157,
+        "prompt": "The plant with large, heart-shaped leaves and purple flowers in tropical regions",
+        "explicit_meaning": "Bougainvillea with large, heart-shaped leaves and purple flowers in tropical regions",
+        "tag": "Plant"
+    },
+    {
+        "id": 158,
+        "prompt": "The plant with needle-like spines and water-storing barrel-shaped body",
+        "explicit_meaning": "Saguaro Cactus with needle-like spines and water-storing barrel-shaped body",
+        "tag": "Plant"
+    },
+    {
+        "id": 159,
+        "prompt": "The plant with spiky leaves and vibrant orange flowers in desert regions",
+        "explicit_meaning": "Aloe Vera with spiky leaves and vibrant orange flowers in desert regions",
+        "tag": "Plant"
+    },
+    {
+        "id": 160,
+        "prompt": "The desert plant with needle-like spines and water-storing barrel-shaped body",
+        "explicit_meaning": "Saguaro Cactus with needle-like spines and water-storing barrel-shaped body",
+        "tag": "Plant"
+    },
+    {
+        "id": 161,
+        "prompt": "The Mediterranean herb with silver-green leaves used to crown ancient Olympic champions",
+        "explicit_meaning": "Olive Branch with silver-green leaves used to crown ancient Olympic champions",
+        "tag": "Plant"
+    },
+    {
+        "id": 162,
+        "prompt": "The carnivorous plant with jaw-like traps that snap shut on insects",
+        "explicit_meaning": "Venus Flytrap with jaw-like traps that snap shut on insects",
+        "tag": "Plant"
+    },
+    {
+        "id": 163,
+        "prompt": "The French purple-flowered plant filling Provence's fields with fragrant haze in summer",
+        "explicit_meaning": "Lavender filling Provence's fields with fragrant haze in summer",
+        "tag": "Plant"
+    },
+    {
+        "id": 164,
+        "prompt": "The tall plant with golden-yellow disk florets that track sunlight movement",
+        "explicit_meaning": "Sunflower with golden-yellow disk florets that track sunlight movement",
+        "tag": "Plant"
+    },
+    {
+        "id": 165,
+        "prompt": "The fast-growing grass with hollow segmented stems symbolizing resilience in Chinese culture",
+        "explicit_meaning": "Bamboo with hollow segmented stems symbolizing resilience in Chinese culture",
+        "tag": "Plant"
+    },
+    {
+        "id": 166,
+        "prompt": "The weed producing white puffball seed heads dispersed by wind",
+        "explicit_meaning": "Dandelion producing white puffball seed heads dispersed by wind",
+        "tag": "Plant"
+    },
+    {
+        "id": 167,
+        "prompt": "The flower causing economic speculation frenzy in 17th-century Netherlands",
+        "explicit_meaning": "Tulip causing economic speculation frenzy in 17th-century Netherlands",
+        "tag": "Plant"
+    },
+    {
+        "id": 168,
+        "prompt": "The tree producing acorns as fruits and symbolizing strength in Europe",
+        "explicit_meaning": "Oak Tree producing acorns as fruits and symbolizing strength in Europe",
+        "tag": "Plant"
+    },
+    {
+        "id": 169,
+        "prompt": "The tree with slender drooping branches often found near water bodies",
+        "explicit_meaning": "Willow Tree with slender drooping branches often found near water bodies",
+        "tag": "Plant"
+    },
+    {
+        "id": 170,
+        "prompt": "The desert succulent storing water in thick fleshy pads covered with spines",
+        "explicit_meaning": "Prickly Pear Cactus storing water in thick fleshy pads covered with spines",
+        "tag": "Plant"
+    },
+    {
+        "id": 171,
+        "prompt": "The plant with heart-shaped leaves and aerial roots clinging to walls",
+        "explicit_meaning": "Ivy with heart-shaped leaves and aerial roots clinging to walls",
+        "tag": "Plant"
+    },
+    {
+        "id": 172,
+        "prompt": "The fragrant white flower used in Hawaiian leis symbolizing tropical beauty",
+        "explicit_meaning": "Plumeria used in Hawaiian leis symbolizing tropical beauty",
+        "tag": "Plant"
+    },
+    {
+        "id": 173,
+        "prompt": "The carnivorous pitcher-shaped plant trapping insects in liquid-filled vessels",
+        "explicit_meaning": "Nepenthes trapping insects in liquid-filled vessels",
+        "tag": "Plant"
+    },
+    {
+        "id": 174,
+        "prompt": "The sacred Indian tree with hanging roots where villagers tie wish-fulfillment threads",
+        "explicit_meaning": "Banyan Tree with hanging roots where villagers tie wish-fulfillment threads",
+        "tag": "Plant"
+    },
+    {
+        "id": 175,
+        "prompt": "The dish with saffron and seafood originating from Valencia, Spain",
+        "explicit_meaning": "Paella with saffron and seafood originating from Valencia, Spain",
+        "tag": "Food"
+    },
+    {
+        "id": 176,
+        "prompt": "The dish with rice and beans popular in Caribbean cuisine",
+        "explicit_meaning": "Arroz con Pollo with rice and beans popular in Caribbean cuisine",
+        "tag": "Food"
+    },
+    {
+        "id": 177,
+        "prompt": "The dish with pasta and tomato sauce originating from Italy",
+        "explicit_meaning": "Spaghetti Bolognese with pasta and tomato sauce originating from Italy",
+        "tag": "Food"
+    },
+    {
+        "id": 178,
+        "prompt": "The dish with corn tortillas and meat popular in Mexican cuisine",
+        "explicit_meaning": "Tacos with corn tortillas and meat popular in Mexican cuisine",
+        "tag": "Food"
+    },
+    {
+        "id": 179,
+        "prompt": "The Japanese dish globally renowned for pairing vinegared rice with fresh fish",
+        "explicit_meaning": "Sushi globally renowned for pairing vinegared rice with fresh fish",
+        "tag": "Food"
+    },
+    {
+        "id": 180,
+        "prompt": "The cheese famous for maintaining shape when grilled or fried",
+        "explicit_meaning": "Halloumi famous for maintaining shape when grilled or fried",
+        "tag": "Food"
+    },
+    {
+        "id": 181,
+        "prompt": "The French pastry recognized by its flaky laminated dough layers",
+        "explicit_meaning": "Croissant recognized by its flaky laminated dough layers",
+        "tag": "Food"
+    },
+    {
+        "id": 182,
+        "prompt": "The Turkish dessert made of layered filo pastry filled with nuts and soaked in syrup",
+        "explicit_meaning": "Baklava made of layered filo pastry filled with nuts and soaked in syrup",
+        "tag": "Food"
+    },
+    {
+        "id": 183,
+        "prompt": "The American dessert featuring layers of chocolate cake and coffee-soaked ladyfingers",
+        "explicit_meaning": "Tiramisu featuring layers of chocolate cake and coffee-soaked ladyfingers",
+        "tag": "Food"
+    },
+    {
+        "id": 184,
+        "prompt": "The French thin pancake folded with Nutella and banana slices",
+        "explicit_meaning": "Crepe, the French thin pancake folded with Nutella and banana slices",
+        "tag": "Food"
+    },
+    {
+        "id": 185,
+        "prompt": "The Spanish burnt-surface cheesecake with creamy interior baked at high temperature",
+        "explicit_meaning": "Basque Cheesecake, the Spanish burnt-surface cheesecake with creamy interior baked at high temperature",
+        "tag": "Food"
+    },
+    {
+        "id": 186,
+        "prompt": "The German layered chocolate cake soaked in kirschwasser and decorated with chocolate shavings resembling pine needles",
+        "explicit_meaning": "Black Forest Cake, the layered chocolate cake soaked in kirschwasser and decorated with chocolate shavings resembling pine needles from Germany",
+        "tag": "Food"
+    },
+    {
+        "id": 187,
+        "prompt": "The Swiss melted cheese dish served in a communal pot with bread dipping",
+        "explicit_meaning": "Fondue served in a communal pot with bread dipping",
+        "tag": "Food"
+    },
+    {
+        "id": 188,
+        "prompt": "The tropical fruit with spiky exterior and sweet yellow flesh crowned by green leaves",
+        "explicit_meaning": "Pineapple with spiky exterior and sweet yellow flesh crowned by green leaves",
+        "tag": "Food"
+    },
+    {
+        "id": 189,
+        "prompt": "The purple vegetable native to South America with starchy tubers rich in anthocyanins",
+        "explicit_meaning": "Purple Potato native to South America with starchy tubers rich in anthocyanins",
+        "tag": "Food"
+    },
+    {
+        "id": 190,
+        "prompt": "The Japanese seafood delicacy of raw fish sliced into artistic arrangements",
+        "explicit_meaning": "Sashimi of raw fish sliced into artistic arrangements",
+        "tag": "Food"
+    },
+    {
+        "id": 191,
+        "prompt": "The Mexican fruit with leathery skin and blood-red pulp containing edible black seeds",
+        "explicit_meaning": "Dragon Fruit with leathery skin and blood-red pulp containing edible black seeds",
+        "tag": "Food"
+    },
+    {
+        "id": 192,
+        "prompt": "The Italian green vegetable shaped like miniature trees with dense florets",
+        "explicit_meaning": "Broccoli shaped like miniature trees with dense florets",
+        "tag": "Food"
+    },
+    {
+        "id": 193,
+        "prompt": "The Southeast Asian fruit with pungent odor and custard-like texture",
+        "explicit_meaning": "Durian with pungent odor and custard-like texture",
+        "tag": "Food"
+    },
+    {
+        "id": 194,
+        "prompt": "The Middle Eastern dish made of ground chickpeas or fava beans formed into balls and deep-fried",
+        "explicit_meaning": "Falafel made of ground chickpeas or fava beans formed into balls and deep-fried",
+        "tag": "Food"
+    },
+    {
+        "id": 195,
+        "prompt": "The root vegetable with spiral purple and white stripes resembling barber poles",
+        "explicit_meaning": "Chioggia Beet with spiral purple and white stripes resembling barber poles",
+        "tag": "Food"
+    },
+    {
+        "id": 196,
+        "prompt": "The Mediterranean fruit with finger-like protrusions and citrus aroma used in perfumery",
+        "explicit_meaning": "Buddha's Hand Citron, the Mediterranean fruit with finger-like protrusions and citrus aroma used in perfumery",
+        "tag": "Food"
+    },
+    {
+        "id": 197,
+        "prompt": "The tropical fruit with star-shaped cross-section and waxy yellow skin",
+        "explicit_meaning": "Carambola, the tropical fruit with star-shaped cross-section and waxy yellow skin",
+        "tag": "Food"
+    },
+    {
+        "id": 198,
+        "prompt": "The fruit with leathery skin and green flesh often used in smoothies",
+        "explicit_meaning": "Avocado, the fruit with leathery skin and green flesh often used in smoothies",
+        "tag": "Food"
+    },
+    {
+        "id": 199,
+        "prompt": "The hairy Southeast Asian fruit with soft crimson spikes enclosing sweet flesh",
+        "explicit_meaning": "Rambutan, the fruit with soft crimson hairy spikes enclosing sweet flesh from Southeast Asia",
+        "tag": "Food"
+    },
+    {
+        "id": 200,
+        "prompt": "The leather-skinned fruit cracking open to reveal hundreds of ruby seeds bursting with tart juice",
+        "explicit_meaning": "Pomegranate, the fruit with leathery skin cracking open to reveal hundreds of ruby seeds bursting with tart juice",
+        "tag": "Food"
+    }
+]

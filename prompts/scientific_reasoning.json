@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "prompt": "A wooden block and an iron cube submerged in water",
+        "explicit_meaning": "A wooden block and an iron cube submerged in water, the block floating at the surface and the iron cube sunk in water.",
+        "tag": "physics: buoyancy"
+    },
+    {
+        "id": 2,
+        "prompt": "A rubber duck and a metal ball in a water tank.",
+        "explicit_meaning": "A rubber duck and a metal ball in a water tank, the rubber duck floating at the surface and the metal ball resting on the tank’s floor.",
+        "tag": "physics: buoyancy"
+    },
+    {
+        "id": 3,
+        "prompt": "A beach ball and a marble in a swimming pool",
+        "explicit_meaning": "A beach ball and a marble in a swimming pool, the beach ball floating on the water's surface while the marble rests at the bottom of the pool.",
+        "tag": "physics: buoyancy"
+    },
+    {
+        "id": 4,
+        "prompt": "Cork bottle stoppers and metal washers in a jar of water",
+        "explicit_meaning": "Cork bottle stoppers and metal washers in a jar of water, the corks clustered at the surface while the metal washers are stacked at the bottom.",
+        "tag": "physics: buoyancy"
+    },
+    {
+        "id": 5,
+        "prompt": "Three objects in a fish tank: a cork, a wooden ball, and a lead weight.",
+        "explicit_meaning": "Three objects in a fish tank: a cork floating at the water's surface, a wooden ball floating just below the surface, and a lead weight resting at the bottom.",
+        "tag": "physics: buoyancy"
+    },
+    {
+        "id": 6,
+        "prompt": "A red helium balloon and a green water balloon in a living room.",
+        "explicit_meaning": "A red helium balloon floating near the ceiling and a green water balloon resting on the floor in a living room.",
+        "tag": "physics: buoyancy"
+    },
+    {
+        "id": 7,
+        "prompt": "Two springs hanging in a row: one empty, one with a ball",
+        "explicit_meaning": "Two springs hanging vertically in a row: one is empty and short, one is stretched by holding a ball",
+        "tag": "physics: elasticity"
+    },
+    {
+        "id": 8,
+        "prompt": "Three springs hanging in a row: one empty, one with a watermelon, one with two identical watermelons.",
+        "explicit_meaning": "Three springs hanging vertically in a row: one is empty and shortest, one is stretched by holding a melon, one is stretched twice as far by two identical melons.",
+        "tag": "physics: elasticity"
+    },
+    {
+        "id": 9,
+        "prompt": "A trampoline with an iron ball on it",
+        "explicit_meaning": "A trampoline with an iron ball on it, stretching the surface deeply.",
+        "tag": "physics: elasticity"
+    },
+    {
+        "id": 10,
+        "prompt": "A trampoline with a bowling ball, a basketball, and a ping pong ball placed on it",
+        "explicit_meaning": "A trampoline with a bowling ball, a basketball, and a ping pong ball placed on it: the bowling ball creating a deep depression in the center, a basketball making a moderate dip, and a ping pong ball barely affecting the surface.",
+        "tag": "physics: elasticity"
+    },
+    {
+        "id": 11,
+        "prompt": "A passenger inside a car holding a cup of coffee, the car suddenly accelerates.",
+        "explicit_meaning": "A passenger inside a car holding a cup of coffee, the car suddenly accelerates causing the coffee to spill.",
+        "tag": "physics: inertia"
+    },
+    {
+        "id": 12,
+        "prompt": "A bus stopping suddenly with standing passengers.",
+        "explicit_meaning": "A bus stopping suddenly with standing passengers all leaning forward, some grabbing poles for stability, and others stumbling in the direction the bus was moving.",
+        "tag": "physics: inertia"
+    },
+    {
+        "id": 13,
+        "prompt": "A hot cup of coffee cooling down on a table.",
+        "explicit_meaning": "A steaming cup of coffee gradually cooling on a table.",
+        "tag": "physics: thermodynamics"
+    },
+    {
+        "id": 14,
+        "prompt": "A hot cup of coffee and a cold glass of water on a table.",
+        "explicit_meaning": "A hot cup of coffee and a cold glass of water on a table, steam rising from the coffee while the water remains still.",
+        "tag": "physics: thermodynamics"
+    },
+    {
+        "id": 15,
+        "prompt": "Iron filings scattered around a bar magnet.",
+        "explicit_meaning": "Iron filings scattered around a bar magnet, filing patterns curving between the magnet’s north and south poles.",
+        "tag": "physics: magnetism"
+    },
+    {
+        "id": 16,
+        "prompt": "A bar magnet and a paperclip on a table.",
+        "explicit_meaning": "A bar magnet and a paperclip on a table, the paperclip attracted to the magnet, sticking to it.",
+        "tag": "physics: magnetism"
+    },
+    {
+        "id": 17,
+        "prompt": "A compass placed near power lines, another near a smartphone.",
+        "explicit_meaning": "Two compasses: one near power lines with its needle deflected away from north, another near a smartphone showing similar interference with its needle pointing in an incorrect direction.",
+        "tag": "physics: magnetism"
+    },
+    {
+        "id": 18,
+        "prompt": "Four sealed terrariums with fireflies labeled Day 1 to Day 4.",
+        "explicit_meaning": "Four sealed terrariums with fireflies labeled Day 1 to Day 4: the first brimming with fireflies, each subsequent terrarium holding half as many glowing insects.",
+        "tag": "physics: radioactive decay"
+    },
+    {
+        "id": 19,
+        "prompt": "A bulb not connected to the battery.",
+        "explicit_meaning": "A bulb is unlit",
+        "tag": "physics: electricity"
+    },
+    {
+        "id": 20,
+        "prompt": "A bulb connected to the battery.",
+        "explicit_meaning": "A bulb is lit",
+        "tag": "physics: electricity"
+    },
+    {
+        "id": 21,
+        "prompt": "Two bulbs, one connected to the battery and the other is not.",
+        "explicit_meaning": "Two bulbs, one is connected to the battery and is lit, and the other is not connected to the battery and is unlit.",
+        "tag": "physics: electricity"
+    },
+    {
+        "id": 22,
+        "prompt": "Two identical flashlights, one with fresh batteries, the other with nearly depleted batteries",
+        "explicit_meaning": "Two flashlights, one with fresh batteries producing a bright, focused beam, the other with nearly depleted batteries emitting a dim light.",
+        "tag": "physics: electricity"
+    },
+    {
+        "id": 23,
+        "prompt": "A lightning rod on a building during a thunderstorm",
+        "explicit_meaning": "Lightning striking a metal rod on a building's roof, the electrical current visibly traveling down the conductive cable to safely disperse into the ground.",
+        "tag": "physics: electricity"
+    },
+    {
+        "id": 24,
+        "prompt": "Two light bulbs in parallel circuits: one connected to thick copper wire, the other connected to thin wire.",
+        "explicit_meaning": "Two light bulbs in parallel circuits: one bulb connected to thick copper wire glowing brightly, the other connected to thin wire glowing dimly",
+        "tag": "physics: electrical resistance"
+    },
+    {
+        "id": 25,
+        "prompt": "A boy's hair after removing a wool hat",
+        "explicit_meaning": "A boy's hair standing on end after removing a wool hat, the strands repelling each other.",
+        "tag": "physics: static electricity"
+    },
+    {
+        "id": 26,
+        "prompt": "A balloon that was rubbed on hair is held close to a wall.",
+        "explicit_meaning": "A balloon sticking to the wall.",
+        "tag": "physics: static electricity"
+    },
+    {
+        "id": 27,
+        "prompt": "A plastic comb hovering above small pieces of paper after being run through dry hair.",
+        "explicit_meaning": "A plastic comb hovering above small pieces of paper, with several pieces clinging to the comb.",
+        "tag": "physics: static electricity"
+    },
+    {
+        "id": 28,
+        "prompt": "Two inflated balloons hanging from strings tied together after being rubbed on a wool sweater.",
+        "explicit_meaning": "Two inflated balloons hanging from strings tied together, suspended apart from each other, their strings diverging at an angle as they repel",
+        "tag": "physics: static electricity"
+    },
+    {
+        "id": 29,
+        "prompt": "Two ice skaters pushing off each other.",
+        "explicit_meaning": "Two ice skaters pushing off each other and gliding in opposite directions.",
+        "tag": "physics: conservation of momentum"
+    },
+    {
+        "id": 30,
+        "prompt": "Oil and water are poured into a glass.",
+        "explicit_meaning": "Oil and water are poured into a glass. The oil floats on top of the water.",
+        "tag": "physics: density"
+    },
+    {
+        "id": 31,
+        "prompt": "Honey, vegetable oil, and water poured into a tall glass",
+        "explicit_meaning": "Honey, vegetable oil, and water poured into a tall glass forming three distinct layers: honey settled at the bottom, water in the middle, and oil floating on top.",
+        "tag": "physics: density"
+    },
+    {
+        "id": 32,
+        "prompt": "An egg, a grape, and a coin placed in a saltwater tank.",
+        "explicit_meaning": "An egg, a grape, and a coin placed in a saltwater tank, the egg floating halfway submerged, the grape floating at the surface and the coin resting at the bottom.",
+        "tag": "physics: density"
+    },
+    {
+        "id": 33,
+        "prompt": "A metal spoon and a wooden spoon left in a steaming mug with hot water.",
+        "explicit_meaning": "A metal spoon and a wooden spoon left in a steaming mug with hot water, the metal spoon’s handle fogged with condensation, the wooden spoon dry.",
+        "tag": "physics: thermal conductivity"
+    },
+    {
+        "id": 34,
+        "prompt": "A sewing needle resting horizontally on a bowl of water.",
+        "explicit_meaning": "A sewing needle resting horizontally on a bowl of water, its weight creating tiny dimples without sinking.",
+        "tag": "physics: surface tension"
+    },
+    {
+        "id": 35,
+        "prompt": "A drop of dye is added to a glass of water.",
+        "explicit_meaning": "A drop of dye halfway diffused into a glass of water, its edges slowly blurring into the water",
+        "tag": "physics: diffusion"
+    },
+    {
+        "id": 36,
+        "prompt": "A tea bag in a clear glass of hot water",
+        "explicit_meaning": "A tea bag in a clear glass of hot water creating swirls of color as the tea diffuses outward, darkest near the bag and gradually fading to lighter shades farther away.",
+        "tag": "physics: diffusion"
+    },
+    {
+        "id": 37,
+        "prompt": "Dry ice in room temperature water",
+        "explicit_meaning": "Dry ice in room temperature water, it transforms directly from solid to a ghostly fog that pours over the container's edge.",
+        "tag": "physics: sublimation"
+    },
+    {
+        "id": 38,
+        "prompt": "Two identical mothballs, one new and the other placed in an open container for several days.",
+        "explicit_meaning": "Two mothballs, one is larger and the other is smaller.",
+        "tag": "physics: sublimation"
+    },
+    {
+        "id": 39,
+        "prompt": "A heavy person and a thin person walk across fresh snow, leaving parallel trails of footprints.",
+        "explicit_meaning": "A heavy person and a thin person walk across fresh snow, the heavy person's trails of footprints sinks deeply in snow, the thin one's barely dents the surface.",
+        "tag": "physics: pressure"
+    },
+    {
+        "id": 40,
+        "prompt": "A heavy rock placed on a beach ball",
+        "explicit_meaning": "A heavy rock placed on a beach ball, the ball slightly compressed under the weight.",
+        "tag": "physics: pressure"
+    },
+    {
+        "id": 41,
+        "prompt": "Two identical holes at different heights in a water tank.",
+        "explicit_meaning": "A water tank with two identical holes at different heights along its side: the lower hole shooting water the further horizontal distance, the higher hole shooting to a lower distance.",
+        "tag": "physics: hydrostatic pressure"
+    },
+    {
+        "id": 42,
+        "prompt": "A tall cylinder with water and three identical holes at different depths.",
+        "explicit_meaning": "A tall cylinder with water and three identical holes at different depths: the water jet from the lowest hole shoots the farthest horizontally, the middle hole's jet reaches a medium distance, and the top hole's jet reaches the nearest distance.",
+        "tag": "physics: hydrostatic pressure"
+    },
+    {
+        "id": 43,
+        "prompt": "An image comparing water flowing from a tap at low pressure and at high pressure",
+        "explicit_meaning": "Water flowing smoothly from a low pressure tap, beside a chaotic, splashing water stream flowing from at high pressure tap.",
+        "tag": "physics: pressure"
+    },
+    {
+        "id": 44,
+        "prompt": "A crushed plastic bottle sealed at sea level being brought to plateau",
+        "explicit_meaning": "A crushed plastic bottle sealed at sea level being brought to plateau, expanding and regaining its shape.",
+        "tag": "physics: atmospheric pressure"
+    },
+    {
+        "id": 45,
+        "prompt": "A sealed bag of chips in a high pressure chamber",
+        "explicit_meaning": "A sealed bag of chips in a high pressure chamber, the bag crumple inward, visibly compressed.",
+        "tag": "physics: atmospheric pressure"
+    },
+    {
+        "id": 46,
+        "prompt": "A pot of water with lid as it boils",
+        "explicit_meaning": "A pot of vigorously boiling water, its lid rattling and lifting slightly as steam pressure builds underneath, water droplets condensing on the lid's underside.",
+        "tag": "physics: vapour pressure"
+    },
+    {
+        "id": 47,
+        "prompt": "A person sitting in a bathtub filled to the brim",
+        "explicit_meaning": "A person sitting in a bathtub filled to the brim, with water overflowing.",
+        "tag": "physics: fluid displacement"
+    },
+    {
+        "id": 48,
+        "prompt": "An image comparing a water tank before and after a brick is placed in it",
+        "explicit_meaning": "A water tank filled with water, and beside it an identical water tank with a brick inside with higher water level",
+        "tag": "physics: fluid displacement"
+    },
+    {
+        "id": 49,
+        "prompt": "Two identical candles that were lit at different times, one was just lit, one was lit for a while",
+        "explicit_meaning": "Two candles were lit at different times, one candle tall and barely melted, one short with wax dripping down its sides.",
+        "tag": "physics: combustion"
+    },
+    {
+        "id": 50,
+        "prompt": "A child lifting a large rock with a crowbar.",
+        "explicit_meaning": "A child lifting a large rock with a crowbar, the crowbar is pivoted on a tiny block.",
+        "tag": "physics: leverage"
+    },
+    {
+        "id": 51,
+        "prompt": "A seesaw with a child on one end and an adult on the other",
+        "explicit_meaning": "A seesaw with a child on one end and an adult on the other, the child lifted high in the air while the adult remains low to the ground.",
+        "tag": "physics: leverage"
+    },
+    {
+        "id": 52,
+        "prompt": "A seesaw with a 1-kilogram cotton ball on one end and a 1-kilogram iron cube on the other.",
+        "explicit_meaning": "A seesaw with a 1-kilogram cotton ball on one end and a 1-kilogram iron cube on the other, the seesaw perfectly balanced, the cotton and iron suspended at equal heights.",
+        "tag": "physics: leverage"
+    },
+    {
+        "id": 53,
+        "prompt": "A seesaw with a 10-kilogram cotton ball on one end and a 1-kilogram iron cube on the other",
+        "explicit_meaning": "A seesaw with a 10-kilogram cotton ball on one end and a 1-kilogram iron cube on the other, the cotton side down, the iron side up.",
+        "tag": "physics: leverage"
+    },
+    {
+        "id": 54,
+        "prompt": "A seesaw with a 1 cubic decimeter block of cotton on one end and 1 cubic decimeter iron cube on the other",
+        "explicit_meaning": "A seesaw with a 1 cubic decimeter block of cotton on one end and 1 cubic decimeter iron cube on the other, the cotton side up, the iron side down.",
+        "tag": "physics: leverage"
+    },
+    {
+        "id": 55,
+        "prompt": "A boat floating on a still lake",
+        "explicit_meaning": "A boat floating on a still lake, perfectly mirrored in the lake.",
+        "tag": "physics: optics (reflection)"
+    },
+    {
+        "id": 56,
+        "prompt": "Red lasers pointing at a mirror in a dark room.",
+        "explicit_meaning": "Red laser beams pointing at a mirror in a dark room, bouncing at equal angles off the mirror, creating a geometric pattern of light paths.",
+        "tag": "physics: optics (reflection)"
+    },
+    {
+        "id": 57,
+        "prompt": "A CD reflecting light in a room",
+        "explicit_meaning": "A CD reflecting light in a room, creating a spectrum of colors across the surface.",
+        "tag": "physics: optics (diffraction)"
+    },
+    {
+        "id": 58,
+        "prompt": "Light passing through a narrow slit onto a screen.",
+        "explicit_meaning": "Light passing through a narrow slit projecting onto a screen, creating a central bright band flanked by alternating dark and light bands of decreasing intensity.",
+        "tag": "physics: optics (diffraction)"
+    },
+    {
+        "id": 59,
+        "prompt": "A pencil partially immersed in a glass of water.",
+        "explicit_meaning": "A pencil partially immersed in a glass of water, its submerged half offset from its exposed half.",
+        "tag": "physics: optics (refraction)"
+    },
+    {
+        "id": 60,
+        "prompt": "A half-submerged ruler in a water tank.",
+        "explicit_meaning": "A half-submerged ruler in a water tank, angles sharply at the water’s surface; its submerged numbers appear magnified.",
+        "tag": "physics: optics (refraction)"
+    },
+    {
+        "id": 61,
+        "prompt": "A magnifying glass examining text on a newspaper.",
+        "explicit_meaning": "A magnifying glass examining text on a newspaper, with the words beneath the lens appearing significantly larger",
+        "tag": "physics: optics (refraction)"
+    },
+    {
+        "id": 62,
+        "prompt": "A kaleidoscope pointed at a colorful scene.",
+        "explicit_meaning": "A kaleidoscope pointed at a colorful scene, creating symmetrical geometric patterns of reflected light and color in its viewing chamber.",
+        "tag": "physics: optics (reflection)"
+    },
+    {
+        "id": 63,
+        "prompt": "Sunlight passing through a triangular glass prism",
+        "explicit_meaning": "Sunlight passing through a triangular glass prism, creating a rainbow spectrum of colors.",
+        "tag": "physics: optics (dispersion)"
+    },
+    {
+        "id": 64,
+        "prompt": "A light beam passing through a tank with distinct layers of oil, water, and corn syrup from top to bottom",
+        "explicit_meaning": "A light beam passing through a tank with distinct layers of oil, water, and corn syrup, bending at different angles at each liquid boundary.",
+        "tag": "physics: optics (dispersion)"
+    },
+    {
+        "id": 65,
+        "prompt": "Sunlight shining on soap bubbles",
+        "explicit_meaning": "Sunlight shining on soap bubbles, creating iridescent swirls of colors across their thin curved surfaces.",
+        "tag": "physics: optics (dispersion)"
+    },
+    {
+        "id": 66,
+        "prompt": "Sunlight beaming through a dusty attic window",
+        "explicit_meaning": "Sunlight beaming through a dusty attic window, the beam's path made visible by countless floating dust particles illuminated in the air.",
+        "tag": "physics: optics (scattering)"
+    },
+    {
+        "id": 67,
+        "prompt": "Flashlight beam in a foggy room",
+        "explicit_meaning": "A flashlight beam cutting through a foggy room in a straight line, its path visible as a solid cone of light.",
+        "tag": "physics: optics (linear propagation)"
+    },
+    {
+        "id": 68,
+        "prompt": "A magnifying glass focusing sunlight onto a piece of paper for a while",
+        "explicit_meaning": "A magnifying glass focusing sunlight onto a piece of paper for a while, creating a small, bright spot that ignites the paper.",
+        "tag": "physics: optics (lens)"
+    },
+    {
+        "id": 69,
+        "prompt": "A person standing in front of a mirror",
+        "explicit_meaning": "A person standing in front of a mirror, with the mirror reflecting the person and displaying an identical image.",
+        "tag": "physics: optics (reflection)"
+    },
+    {
+        "id": 70,
+        "prompt": "A shiny surface reflecting sunlight",
+        "explicit_meaning": "A shiny surface reflecting sunlight, creating a bright glare and illuminating the surrounding area.",
+        "tag": "physics: optics (reflection)"
+    },
+    {
+        "id": 71,
+        "prompt": "Sunlight falling on two identical cubes of black and white colors, thermometer on each",
+        "explicit_meaning": "Sunlight falling on two identical cubes of black and white colors, thermometer on each; The black cube’s thermometer reading significantly higher than the white cube’s.",
+        "tag": "physics: optics (absorption)"
+    },
+    {
+        "id": 72,
+        "prompt": "Two glass containers, one with water in a solid state and the other with water in a liquid state.",
+        "explicit_meaning": "A glass container with ice and a glass container with liquid water",
+        "tag": "physics: phase transition"
+    },
+    {
+        "id": 73,
+        "prompt": "Two ice cubes on plates of copper and wood in room temperature for a while",
+        "explicit_meaning": "Two ice cubes on plates of copper and wood in room temperature for a while; the cube on copper melting faster, forming the largest puddle.",
+        "tag": "physics: phase transition"
+    },
+    {
+        "id": 74,
+        "prompt": "A chocolate bar left on a car dashboard on a hot day",
+        "explicit_meaning": "A chocolate bar left on a car dashboard on a hot day, melted into a glossy puddle.",
+        "tag": "physics: phase transition"
+    },
+    {
+        "id": 75,
+        "prompt": "A cup of icy coffee in warm humid air",
+        "explicit_meaning": "A cup of icy coffee in warm humid air, its exterior clouded with tiny water droplets that have condensed from the surrounding warm air.",
+        "tag": "physics: phase transition"
+    },
+    {
+        "id": 76,
+        "prompt": "Water reaching 100°C",
+        "explicit_meaning": "Water reaching 100°C vigorously converts to steam.",
+        "tag": "physics: phase transition"
+    },
+    {
+        "id": 77,
+        "prompt": "A pot of water beginning to boil",
+        "explicit_meaning": "A pot of water beginning to boil, show visible circulation as heated water rises from the bottom while cooler water descends along the sides.",
+        "tag": "physics: phase transition"
+    },
+    {
+        "id": 78,
+        "prompt": "A paper towel with one edge touching blue-colored water for a while.",
+        "explicit_meaning": "A paper towel with one edge touching blue-colored water for a while, the color visibly climbing up the towel.",
+        "tag": "physics: capillary action"
+    },
+    {
+        "id": 79,
+        "prompt": "A transparent thin straw submerged in blue-colored water",
+        "explicit_meaning": "A transparent thin straw submerged in blue-colored water, the liquid rising inside the straw to a height above the water level.",
+        "tag": "physics: capillary action"
+    },
+    {
+        "id": 80,
+        "prompt": "A bi-metal strip heated by a flame",
+        "explicit_meaning": "A curved bi-metal strip heated by a flame, bending further as one metal expands more than the other with increasing temperature.",
+        "tag": "physics: thermal expansion"
+    },
+    {
+        "id": 81,
+        "prompt": "An ammeter connected to a solar panel in sunlight",
+        "explicit_meaning": "An ammeter connected to a solar panel in sunlight, the ammeter’s needle deflected to a non-zero reading",
+        "tag": "physics: photoelectric effect"
+    },
+    {
+        "id": 82,
+        "prompt": "Fluorescent rocks under ultraviolet light in a dark room",
+        "explicit_meaning": "Fluorescent rocks under ultraviolet light in a dark room, glowing in vibrant neon colors.",
+        "tag": "physics: photoelectric effect"
+    },
+    {
+        "id": 83,
+        "prompt": "An image capturing a moment that a feather and an apple falling in a vacuum chamber, dropped at the same time",
+        "explicit_meaning": "A feather and an apple falling side by side at identical height in a vacuum chamber.",
+        "tag": "physics: gravity"
+    },
+    {
+        "id": 84,
+        "prompt": "An image capturing a moment that an astronaut on the moon drops a hammer and a feather at the same time",
+        "explicit_meaning": "An astronaut on the moon drops a hammer and a feather at the same time, the hammer and feather falling side by side at the same height.",
+        "tag": "physics: gravity"
+    },
+    {
+        "id": 85,
+        "prompt": "An astronaut in space station",
+        "explicit_meaning": "An astronaut in space station, floating weightlessly",
+        "tag": "physics: gravity"
+    },
+    {
+        "id": 86,
+        "prompt": "A basketball in a room with no gravity",
+        "explicit_meaning": "A basketball in a room with no gravity, floating in mid-air",
+        "tag": "physics: gravity"
+    },
+    {
+        "id": 87,
+        "prompt": "An ice cream in summer heat",
+        "explicit_meaning": "An ice cream in summer heat, its edges softening and dripping as it transforms from solid to liquid state.",
+        "tag": "physics: phase transition"
+    },
+    {
+        "id": 88,
+        "prompt": "A candle burning in windy conditions",
+        "explicit_meaning": "A candle burning in windy conditions, its flame flickering sideways and burning faster.",
+        "tag": "physics: combustion"
+    },
+    {
+        "id": 89,
+        "prompt": "A candle burning in still air versus windy conditions",
+        "explicit_meaning": "Two candles: one in still air with a tall, steady flame pointing upward; another in wind with its flame flickering sideways and burning faster.",
+        "tag": "physics: combustion"
+    },
+    {
+        "id": 90,
+        "prompt": "Copper compounds thrown into a campfire.",
+        "explicit_meaning": "Copper compounds thrown into a campfire, producing vivid blue-green flames.",
+        "tag": "chemistry: combustion"
+    },
+    {
+        "id": 91,
+        "prompt": "Sodium salts sprinkled into a fire.",
+        "explicit_meaning": "Sodium salts sprinkled into a fire, producing bright yellow flames.",
+        "tag": "chemistry: combustion"
+    },
+    {
+        "id": 92,
+        "prompt": "Potassium salts sprinkled into a fire.",
+        "explicit_meaning": "Potassium salts sprinkled into a fire, producing purple flames.",
+        "tag": "chemistry: combustion"
+    },
+    {
+        "id": 93,
+        "prompt": "Strontium salts sprinkled into a fire.",
+        "explicit_meaning": "Strontium salts sprinkled into a fire, producing red flames.",
+        "tag": "chemistry: combustion"
+    },
+    {
+        "id": 94,
+        "prompt": "Barium salts sprinkled into a fire.",
+        "explicit_meaning": "Barium salts sprinkled into a fire, producing green flames.",
+        "tag": "chemistry: combustion"
+    },
+    {
+        "id": 95,
+        "prompt": "A tire rolls through a deep puddle",
+        "explicit_meaning": "A tire rolls through a deep puddle, displacing water in waves to either side.",
+        "tag": "physics: fluid dynamics"
+    },
+    {
+        "id": 96,
+        "prompt": "Wind blows across a calm lake",
+        "explicit_meaning": "Wind blows across a calm lake, creating ripples that grow into small waves.",
+        "tag": "physics: fluid dynamics"
+    },
+    {
+        "id": 97,
+        "prompt": "A foot crashes on an empty soda can",
+        "explicit_meaning": "A foot crashes on an empty soda can, crumpling the can.",
+        "tag": "physics: elasticity"
+    },
+    {
+        "id": 98,
+        "prompt": "The coffee beans are crushed by a metal grinder",
+        "explicit_meaning": "The coffee beans are crushed into powder by a metal grinder",
+        "tag": "physics: material hardness"
+    },
+    {
+        "id": 99,
+        "prompt": "An egg and a hard rock collide.",
+        "explicit_meaning": "An egg and a hard rock collide, the eggshell shattered, the rock intact",
+        "tag": "physics: material hardness"
+    },
+    {
+        "id": 100,
+        "prompt": "Eggs dropped onto foam.",
+        "explicit_meaning": "Eggs dropped onto foam, remains intact.",
+        "tag": "physics: material hardness"
+    },
+    {
+        "id": 101,
+        "prompt": "Eggs dropped onto concrete.",
+        "explicit_meaning": "Eggs dropped onto concrete, shatters into fragments.",
+        "tag": "physics: material hardness"
+    },
+    {
+        "id": 102,
+        "prompt": "An image comparing an egg dropped onto foam and an egg concrete.",
+        "explicit_meaning": "An image comparing an egg dropped onto foam and an egg concrete. One egg onto foam cushioning remains intact, while the other hitting concrete shatters into fragments.",
+        "tag": "physics: material hardness"
+    },
+    {
+        "id": 103,
+        "prompt": "A candle in a vacuum chamber",
+        "explicit_meaning": "A candle in a vacuum chamber is not burning.",
+        "tag": "physics: combustion"
+    },
+    {
+        "id": 104,
+        "prompt": "A candle is lit in a space station",
+        "explicit_meaning": "A candle is lit in a space station, the flame is spherical and blue.",
+        "tag": "physics: combustion"
+    },
+    {
+        "id": 105,
+        "prompt": "A piece of iron in a beaker of saltwater",
+        "explicit_meaning": "A piece of iron in a beaker of saltwater, the iron corroding.",
+        "tag": "chemistry: corrosion"
+    },
+    {
+        "id": 106,
+        "prompt": "A piece of iron rusting in a humid environment",
+        "explicit_meaning": "A piece of iron rusting in a humid environment, its surface covered with reddish-brown rust, flaking off.",
+        "tag": "chemistry: corrosion"
+    },
+    {
+        "id": 107,
+        "prompt": "Vinegar and baking soda mixing in a container",
+        "explicit_meaning": "Vinegar and baking soda mixing in a container, creating a vigorous foaming reaction, causing the foam to rise and spill over the container's edge.",
+        "tag": "chemistry: reaction"
+    },
+    {
+        "id": 108,
+        "prompt": "A piece of magnesium burning in air",
+        "explicit_meaning": "A piece of magnesium burning in air, producing a bright white flame.",
+        "tag": "chemistry: combustion"
+    },
+    {
+        "id": 109,
+        "prompt": "A piece of copper wire placed in a solution of silver nitrate",
+        "explicit_meaning": "A piece of copper wire placed in a solution of silver nitrate, the wire gradually turning silver as metallic silver deposits on its surface.",
+        "tag": "chemistry: solution reaction"
+    },
+    {
+        "id": 110,
+        "prompt": "A piece of zinc placed in hydrochloric acid",
+        "explicit_meaning": "A piece of zinc placed in hydrochloric acid, producing bubbles of hydrogen gas.",
+        "tag": "chemistry: solution reaction"
+    },
+    {
+        "id": 111,
+        "prompt": "A piece of sodium placed in water",
+        "explicit_meaning": "A piece of sodium placed in water, producing a vigorous reaction with bubbles and heat, and the sodium floating on the water's surface.",
+        "tag": "chemistry: solution reaction"
+    },
+    {
+        "id": 112,
+        "prompt": "A piece of calcium placed in water",
+        "explicit_meaning": "A piece of calcium placed in water, producing a vigorous reaction with bubbles and heat, and the calcium floating on the water's surface.",
+        "tag": "chemistry: solution reaction"
+    },
+    {
+        "id": 113,
+        "prompt": "A piece of potassium placed in water",
+        "explicit_meaning": "A piece of potassium placed in water, producing a vigorous reaction with bubbles and heat, and the potassium floating on the water's surface.",
+        "tag": "chemistry: solution reaction"
+    },
+    {
+        "id": 114,
+        "prompt": "A piece of lithium placed in water",
+        "explicit_meaning": "A piece of lithium placed in water, producing a vigorous reaction with bubbles and heat, and the lithium floating on the water's surface.",
+        "tag": "chemistry: solution reaction"
+    },
+    {
+        "id": 115,
+        "prompt": "A piece of aluminum placed in hydrochloric acid",
+        "explicit_meaning": "A piece of aluminum placed in hydrochloric acid, producing a vigorous reaction with bubbles producing bubbles of hydrogen gas and heat.",
+        "tag": "chemistry: solution reaction"
+    },
+    {
+        "id": 116,
+        "prompt": "A piece of lead placed in hydrochloric acid",
+        "explicit_meaning": "A piece of lead placed in hydrochloric acid, producing minimal bubbles of hydrogen gas.",
+        "tag": "chemistry: solution reaction"
+    },
+    {
+        "id": 117,
+        "prompt": "A piece of gold placed in hydrochloric acid",
+        "explicit_meaning": "A piece of gold placed in hydrochloric acid, no reaction occurs.",
+        "tag": "chemistry: solution reaction"
+    },
+    {
+        "id": 118,
+        "prompt": "A piece of silver placed in hydrochloric acid",
+        "explicit_meaning": "A piece of silver placed in hydrochloric acid, no reaction occurs.",
+        "tag": "chemistry: solution reaction"
+    },
+    {
+        "id": 119,
+        "prompt": "A piece of platinum placed in hydrochloric acid",
+        "explicit_meaning": "A piece of platinum placed in hydrochloric acid, no reaction occurs.",
+        "tag": "chemistry: solution reaction"
+    },
+    {
+        "id": 120,
+        "prompt": "A piece of gold placed in nitric acid",
+        "explicit_meaning": "A piece of gold placed in nitric acid, no reaction occurs.",
+        "tag": "chemistry: solution reaction"
+    },
+    {
+        "id": 121,
+        "prompt": "A piece of silver placed in concentrated nitric acid",
+        "explicit_meaning": "A piece of silver placed in concentrated nitric acid, brown fumes of nitrogen dioxide are released",
+        "tag": "chemistry: solution reaction"
+    },
+    {
+        "id": 122,
+        "prompt": "A piece of platinum placed in nitric acid",
+        "explicit_meaning": "A piece of platinum placed in nitric acid, no reaction occurs.",
+        "tag": "chemistry: solution reaction"
+    },
+    {
+        "id": 123,
+        "prompt": "Electrolysis of water using a battery",
+        "explicit_meaning": "Electrolysis of water using a battery, producing bubbles of hydrogen gas at the cathode and oxygen gas at the anode.",
+        "tag": "chemistry: decomposition"
+    },
+    {
+        "id": 124,
+        "prompt": "Hydrogen gas and oxygen gas ignited in a container",
+        "explicit_meaning": "Hydrogen gas and oxygen gas ignited in a container, exploding violently to form water droplets.",
+        "tag": "chemistry: synthesis"
+    },
+    {
+        "id": 125,
+        "prompt": "Calcium carbonate chips added to hydrochloric acid",
+        "explicit_meaning": "Calcium carbonate chips added to hydrochloric acid, producing vigorous bubbles of carbon dioxide gas.",
+        "tag": "chemistry: solution reaction"
+    },
+    {
+        "id": 126,
+        "prompt": "Ethanol burned in a lamp",
+        "explicit_meaning": "Ethanol burned in a lamp, producing a clean blue flame.",
+        "tag": "chemistry: combustion"
+    },
+    {
+        "id": 127,
+        "prompt": "Methanol burned in a lamp",
+        "explicit_meaning": "Methanol burned in a lamp, producing a clean blue flame.",
+        "tag": "chemistry: combustion"
+    },
+    {
+        "id": 128,
+        "prompt": "A sliced apple left exposed to air",
+        "explicit_meaning": "A sliced apple left exposed to air, turning brown.",
+        "tag": "chemistry: oxidation"
+    },
+    {
+        "id": 129,
+        "prompt": "Silver chloride powder exposed to sunlight",
+        "explicit_meaning": "Silver chloride powder exposed to sunlight, turning gray as it decomposes into silver metal and chlorine gas.",
+        "tag": "chemistry: photochemical"
+    },
+    {
+        "id": 130,
+        "prompt": "Chlorophyll in leaves absorbing sunlight",
+        "explicit_meaning": "Chlorophyll in leaves absorbing sunlight, facilitating photosynthesis and producing oxygen gas.",
+        "tag": "chemistry: photochemical"
+    },
+    {
+        "id": 131,
+        "prompt": "A person wearing a pair of glasses with photochromic lens under sunlight",
+        "explicit_meaning": "A person wearing a pair of glasses with photochromic lens under sunlight, the lens darkening to protect eyes from UV rays.",
+        "tag": "chemistry: photochemical"
+    },
+    {
+        "id": 132,
+        "prompt": "Copper statue exposed to rainwater",
+        "explicit_meaning": "Copper statue exposed to rainwater, developing a green patina of copper carbonate over time.",
+        "tag": "chemistry: corrosion"
+    },
+    {
+        "id": 133,
+        "prompt": "Universal indicator solution added to a strong acid",
+        "explicit_meaning": "Universal indicator solution added to a strong acid, turning bright red to indicate a low pH.",
+        "tag": "chemistry: indicator"
+    },
+    {
+        "id": 134,
+        "prompt": "Universal indicator solution added to hydrochloric acid solution",
+        "explicit_meaning": "Universal indicator solution added to hydrochloric acid solution, turning bright red to indicate a low pH.",
+        "tag": "chemistry: indicator"
+    },
+    {
+        "id": 135,
+        "prompt": "Universal indicator solution added to a strong base",
+        "explicit_meaning": "Universal indicator solution added to a strong base, turning deep purple to indicate a high pH.",
+        "tag": "chemistry: indicator"
+    },
+    {
+        "id": 136,
+        "prompt": "Universal indicator solution added to sodium hydroxide solution",
+        "explicit_meaning": "Universal indicator solution added to sodium hydroxide solution, turning deep purple to indicate a high pH.",
+        "tag": "chemistry: indicator"
+    },
+    {
+        "id": 137,
+        "prompt": "A drop of hydrochloric acid solution (HCl) placed on pH paper",
+        "explicit_meaning": "A drop of hydrochloric acid solution (HCl) placed on pH paper, turning the paper bright red",
+        "tag": "chemistry: indicator"
+    },
+    {
+        "id": 138,
+        "prompt": "A drop of sodium hydroxide solution (NaOH) placed on pH paper",
+        "explicit_meaning": "A drop of sodium hydroxide solution (NaOH) placed on pH paper, turning the paper dark blue or purple",
+        "tag": "chemistry: indicator"
+    },
+    {
+        "id": 139,
+        "prompt": "Lemon juice squeezed onto pH paper",
+        "explicit_meaning": "Lemon juice squeezed onto pH paper, staining it orange-red.",
+        "tag": "chemistry: indicator"
+    },
+    {
+        "id": 140,
+        "prompt": "Ammonia solution applied to pH paper",
+        "explicit_meaning": "Ammonia solution applied to pH paper, turning it greenish-blue.",
+        "tag": "chemistry: indicator"
+    },
+    {
+        "id": 141,
+        "prompt": "Iodine solution mixed with Vitamin C",
+        "explicit_meaning": "Iodine solution mixed with Vitamin C, the dark brown iodine turns colorless",
+        "tag": "chemistry: reaction"
+    },
+    {
+        "id": 142,
+        "prompt": "Iodine solution mixed with Vitamin C",
+        "explicit_meaning": "Iodine solution mixed with Vitamin C, the dark brown iodine turns colorless",
+        "tag": "chemistry: reaction"
+    },
+    {
+        "id": 143,
+        "prompt": "Gallium put in a person's hand",
+        "explicit_meaning": "Gallium put in a person's hand, melting into a shiny liquid as it warms up.",
+        "tag": "physics: phase transition"
+    },
+    {
+        "id": 144,
+        "prompt": "Iron gate exposed to humid coastal air",
+        "explicit_meaning": "Iron gate exposed to humid coastal air, developing flaky reddish-brown rust due to oxidation.",
+        "tag": "chemistry: corrosion"
+    },
+    {
+        "id": 145,
+        "prompt": "Copper roof exposed to rainwater and sulfur pollutants",
+        "explicit_meaning": "Copper roof exposed to rainwater and sulfur pollutants, forming a green patina of copper sulfate and carbonate over time.",
+        "tag": "chemistry: corrosion"
+    },
+    {
+        "id": 146,
+        "prompt": "Aluminum can left in a pool of bleach solution",
+        "explicit_meaning": "Aluminum can left in a pool of bleach solution, corroding into a pitted, powdery white residue.",
+        "tag": "chemistry: corrosion"
+    },
+    {
+        "id": 147,
+        "prompt": "Marble statue drizzled with vinegar",
+        "explicit_meaning": "Marble statue drizzled with vinegar, etching the surface.",
+        "tag": "chemistry: corrosion"
+    },
+    {
+        "id": 148,
+        "prompt": "Bronze artifact stored in a damp basement",
+        "explicit_meaning": "Bronze artifact stored in a damp basement, corroding into a powdery blue-green layer of copper chloride and malachite.",
+        "tag": "chemistry: corrosion"
+    },
+    {
+        "id": 149,
+        "prompt": "Steel bridge exposed to saltwater spray",
+        "explicit_meaning": "Steel bridge exposed to saltwater spray, corroding into a flaky, reddish-brown layer of rust.",
+        "tag": "chemistry: corrosion"
+    },
+    {
+        "id": 150,
+        "prompt": "Nickel-plated faucet exposed to acidic cleaning agents",
+        "explicit_meaning": "Nickel-plated faucet exposed to acidic cleaning agents, losing its shine as the nickel coating corrodes",
+        "tag": "chemistry: corrosion"
+    },
+    {
+        "id": 151,
+        "prompt": "A beaver building a dam",
+        "explicit_meaning": "A beaver constructing a dam with interlocking sticks and mud in a river",
+        "tag": "biology: animal"
+    },
+    {
+        "id": 152,
+        "prompt": "Fireflies at night",
+        "explicit_meaning": "Fireflies at night emitting their bioluminescent flashes",
+        "tag": "biology: animal"
+    },
+    {
+        "id": 153,
+        "prompt": "A pufferfish in danger",
+        "explicit_meaning": "A pufferfish in danger inflated into a spiny ball, having rapidly gulped water to expand its elastic stomach",
+        "tag": "biology: animal"
+    },
+    {
+        "id": 154,
+        "prompt": "A sea turtle hatchling",
+        "explicit_meaning": "A sea turtle hatchling emerging from its buried egg",
+        "tag": "biology: animal"
+    },
+    {
+        "id": 155,
+        "prompt": "A chick hatching",
+        "explicit_meaning": "A chick hatching from its breaking through the shell",
+        "tag": "biology: animal"
+    },
+    {
+        "id": 156,
+        "prompt": "A pangolin defending itself",
+        "explicit_meaning": "A pangolin defending itself by rolling into a tight protective ball with its overlapping keratinous scales forming an armored exterior against predators",
+        "tag": "biology: animal"
+    },
+    {
+        "id": 157,
+        "prompt": "A male peacock is attracting a mate",
+        "explicit_meaning": "A male peacock is attracting a mate, displaying iridescent tail feathers in a fan shape to a female with plain plumage",
+        "tag": "biology: animal"
+    },
+    {
+        "id": 158,
+        "prompt": "A caterpillar that has finished its pupation process.",
+        "explicit_meaning": "A caterpillar that has finished its pupation process, now a butterfly with vibrant wings, ready to take flight",
+        "tag": "biology: animal"
+    },
+    {
+        "id": 159,
+        "prompt": "A chameleon on a yellow neon sign",
+        "explicit_meaning": "A chameleon on a yellow neon sign, its skin matching the exact hue of the background",
+        "tag": "biology: animal"
+    },
+    {
+        "id": 160,
+        "prompt": "A chameleon on a red neon sign",
+        "explicit_meaning": "A chameleon on a red neon sign, its skin matching the exact hue of the background",
+        "tag": "biology: animal"
+    },
+    {
+        "id": 161,
+        "prompt": "A chameleon on a blue neon sign",
+        "explicit_meaning": "A chameleon on a blue neon sign, its skin matching the exact hue of the background",
+        "tag": "biology: animal"
+    },
+    {
+        "id": 162,
+        "prompt": "A frog with its children swimming in a pond",
+        "explicit_meaning": "A frog surrounded by tadpoles swimming in a pond",
+        "tag": "biology: animal"
+    },
+    {
+        "id": 163,
+        "prompt": "A ladybug on a leaf",
+        "explicit_meaning": "A ladybug on a leaf, its distinctive red and black spotted pattern fully formed after pupation",
+        "tag": "biology: animal"
+    },
+    {
+        "id": 164,
+        "prompt": "A jellyfish in the ocean",
+        "explicit_meaning": "A bioluminescent jellyfish pulsing its bell-shaped body to move, with stinging tentacles trailing",
+        "tag": "biology: animal"
+    },
+    {
+        "id": 165,
+        "prompt": "A spider catching prey",
+        "explicit_meaning": "A spider wrapping a captured insect in silk, immobilizing it for later consumption",
+        "tag": "biology: animal"
+    },
+    {
+        "id": 166,
+        "prompt": "A maple tree in autumn",
+        "explicit_meaning": "A maple tree in autumn with vibrant red and orange maple leaves, some falling to the ground",
+        "tag": "biology: plant"
+    },
+    {
+        "id": 167,
+        "prompt": "A maple tree in winter",
+        "explicit_meaning": "A maple tree in winter, its branches bare of leaves, there might be snow covering the ground",
+        "tag": "biology: plant"
+    },
+    {
+        "id": 168,
+        "prompt": "A pine tree in summer",
+        "explicit_meaning": "A pine tree in summer, its green needles glistening in the sunlight",
+        "tag": "biology: plant"
+    },
+    {
+        "id": 169,
+        "prompt": "A pine tree in snowing winter",
+        "explicit_meaning": "A pine tree in snowing winter, its green needles covered in snow",
+        "tag": "biology: plant"
+    },
+    {
+        "id": 170,
+        "prompt": "A Venus flytrap catching a fly",
+        "explicit_meaning": "A Venus flytrap with its hinged leaves closed around a trapped fly",
+        "tag": "biology: plant"
+    },
+    {
+        "id": 171,
+        "prompt": "Mimosa pudica being touched by hand",
+        "explicit_meaning": "Mimosa pudica being touched by hand, folding its leaflets inward",
+        "tag": "biology: plant"
+    },
+    {
+        "id": 172,
+        "prompt": "Dandelion in wind",
+        "explicit_meaning": "Dandelion in wind, seeds floating on parachute-like pappus structures, dispersing by wind to new growing locations",
+        "tag": "biology: plant"
+    },
+    {
+        "id": 173,
+        "prompt": "A wilted sunflower",
+        "explicit_meaning": "A wilted sunflower with drooping petals and curled leaves, showing dehydration stress under prolonged drought conditions",
+        "tag": "biology: plant"
+    },
+    {
+        "id": 174,
+        "prompt": "A mangrove tree at low tide",
+        "explicit_meaning": "A mangrove tree with its root system exposed at low tide, showing specialized aerial prop roots that allow it to breathe in oxygen-poor mud",
+        "tag": "biology: plant"
+    },
+    {
+        "id": 175,
+        "prompt": "A mushroom releasing spores",
+        "explicit_meaning": "A mushroom releasing spores, puffball ejecting a cloud of brown spores",
+        "tag": "biology: fungus"
+    },
+    {
+        "id": 176,
+        "prompt": "A mushroom growing in a forest",
+        "explicit_meaning": "A mushroom growing in a forest, its cap covered with dew drops",
+        "tag": "biology: fungus"
+    },
+    {
+        "id": 177,
+        "prompt": "Penicillin fungus growing on an orange",
+        "explicit_meaning": "Penicillin fungus growing on an orange, with blue-green mold covering the surface",
+        "tag": "biology: fungus"
+    },
+    {
+        "id": 178,
+        "prompt": "Penicillin fungus growing on a piece of bread",
+        "explicit_meaning": "Penicillin fungus growing on a piece of bread, with blue-green mold covering the surface",
+        "tag": "biology: fungus"
+    },
+    {
+        "id": 179,
+        "prompt": "A potato has been left uneaten for several months",
+        "explicit_meaning": "A potato has been left uneaten for several months, small shoots emerging from the eyes (or buds) of the potato.",
+        "tag": "biology: plant"
+    },
+    {
+        "id": 180,
+        "prompt": "A garlic has been put in a glass of water for a month",
+        "explicit_meaning": "A garlic has been put in a glass of water for a month, growing white, hair-like roots, and green shoot will sprout from the top of the clove",
+        "tag": "biology: plant"
+    },
+    {
+        "id": 181,
+        "prompt": "The solar system",
+        "explicit_meaning": "The solar system with planets orbiting the sun, the planets varying in size and color",
+        "tag": "astronomy"
+    },
+    {
+        "id": 182,
+        "prompt": "A solar eclipse",
+        "explicit_meaning": "A solar eclipse: the moon blocks the sun, revealing the sun’s corona in a darkened sky",
+        "tag": "astronomy"
+    },
+    {
+        "id": 183,
+        "prompt": "Annular eclipse",
+        "explicit_meaning": "An annular eclipse: the moon covers the center of the sun, leaving a ring of sunlight visible around the edges",
+        "tag": "astronomy"
+    },
+    {
+        "id": 184,
+        "prompt": "A lunar eclipse",
+        "explicit_meaning": "A lunar eclipse: the earth blocks sunlight from reaching the moon, casting a shadow with coppery-red glow on the moon",
+        "tag": "astronomy"
+    },
+    {
+        "id": 185,
+        "prompt": "The northern lights",
+        "explicit_meaning": "The northern lights: colorful bands of light dancing across the night sky, caused by solar particles colliding with Earth’s atmosphere",
+        "tag": "astronomy"
+    },
+    {
+        "id": 186,
+        "prompt": "Aurora borealis",
+        "explicit_meaning": "Aurora borealis: colorful bands of light dancing across the night sky, caused by solar particles colliding with Earth’s atmosphere",
+        "tag": "astronomy"
+    },
+    {
+        "id": 187,
+        "prompt": "An illustration depicting the progression of the moon phases throughout a month.",
+        "explicit_meaning": "An illustration depicting the progression of the moon phases throughout a month: new moon, waxing crescent, first quarter, waxing gibbous, full moon, waning gibbous, last quarter, waning crescent.",
+        "tag": "astronomy"
+    },
+    {
+        "id": 188,
+        "prompt": "An illustration depicting the Earth's seasons diagram.",
+        "explicit_meaning": "An illustration depicting the Earth's seasons diagram: the Earth tilted on its axis, showing 4 seasons, summer and winter in opposite hemispheres, with the sun's rays hitting at different angles.",
+        "tag": "astronomy"
+    },
+    {
+        "id": 189,
+        "prompt": "A supernova explosion",
+        "explicit_meaning": "A supernova explosion: a star exploding in a brilliant flash of light and energy, scattering elements into space",
+        "tag": "astronomy"
+    },
+    {
+        "id": 190,
+        "prompt": "A comet passing by Earth",
+        "explicit_meaning": "A comet passing by Earth, with a bright tail of gas and dust trailing behind it",
+        "tag": "astronomy"
+    },
+    {
+        "id": 191,
+        "prompt": "A meteor shower",
+        "explicit_meaning": "A meteor shower: streaks of light in the night sky as meteors burn up in the atmosphere",
+        "tag": "astronomy"
+    },
+    {
+        "id": 192,
+        "prompt": "The Milky Way galaxy",
+        "explicit_meaning": "The Milky Way galaxy: a band of stars and gas clouds visible in the night sky",
+        "tag": "astronomy"
+    },
+    {
+        "id": 193,
+        "prompt": "A black hole",
+        "explicit_meaning": "A black hole with an accretion disk glowing, bending light into a ring",
+        "tag": "astronomy"
+    },
+    {
+        "id": 194,
+        "prompt": "Jupiter’s storm",
+        "explicit_meaning": "Jupiter’s Great Red Spot, a massive anticyclonic storm rotating in the planet’s southern hemisphere",
+        "tag": "astronomy"
+    },
+    {
+        "id": 195,
+        "prompt": "The Andromeda Galaxy",
+        "explicit_meaning": "The Andromeda Galaxy, a spiral galaxy with bright stars and dark dust lanes",
+        "tag": "astronomy"
+    },
+    {
+        "id": 196,
+        "prompt": "Stellar lifecycle",
+        "explicit_meaning": "The stellar lifecycle: different stages of star evolution from nebula to main sequence star to red giant to planetary nebula or supernova to white dwarf or neutron star",
+        "tag": "astronomy"
+    },
+    {
+        "id": 197,
+        "prompt": "Saturn's rings",
+        "explicit_meaning": "Saturn's rings: intricate bands of ice, rock and dust particles orbiting the planet, displaying Cassini division and varying densities casting shadows on the planet",
+        "tag": "astronomy"
+    },
+    {
+        "id": 198,
+        "prompt": "Red giant star",
+        "explicit_meaning": "A red giant star: an enormous, swollen red star in the late stages of evolution, with visible convection cells and solar prominences on its surface",
+        "tag": "astronomy"
+    },
+    {
+        "id": 199,
+        "prompt": "Kuiper Belt",
+        "explicit_meaning": "The Kuiper Belt: a ring of icy bodies beyond Neptune's orbit, including dwarf planet Pluto, shown as a disk of small objects encircling the outer solar system",
+        "tag": "astronomy"
+    },
+    {
+        "id": 200,
+        "prompt": "Olympus Mons",
+        "explicit_meaning": "Olympus Mons: Mars's massive shield volcano rising above the surrounding landscape, showing its caldera at the summit and vast sloping sides",
+        "tag": "astronomy"
+    }
+]

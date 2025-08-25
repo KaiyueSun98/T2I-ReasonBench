@@ -1,0 +1,1402 @@
+[
+    {
+        "id": 1,
+        "prompt": "He told a funny joke to break the ice at the start of the meeting.",
+        "idiom": "break the ice",
+        "idiom_meaning": "To do or say something that helps people who are in a social situation to relax and begin talking to each other.",
+        "tag": "Social Interaction"
+    },
+    {
+        "id": 2,
+        "prompt": "Cutting corners on the construction project could lead to safety issues later.",
+        "idiom": "Cutting corners",
+        "idiom_meaning": "To do something in a way that saves time, effort, or money but may compromise quality or thoroughness.",
+        "tag": "Work & Career: Shortcuts and efficiency"
+    },
+    {
+        "id": 3,
+        "prompt": "When discussing the company's declining sales, Sarah hit the nail on the head during the meeting.",
+        "idiom": "Hit the nail on the head",
+        "idiom_meaning": "To say or do exactly the right thing or to identify the exact nature of something precisely.",
+        "tag": "Work & Career: accuracy/precision"
+    },
+    {
+        "id": 4,
+        "prompt": "The final exam was a piece of cake.",
+        "idiom": "piece of cake",
+        "idiom_meaning": "Something that is very easy to accomplish or requires little effort.",
+        "tag": "ease"
+    },
+    {
+        "id": 5,
+        "prompt": "The painting by the famous artist cost an arm and a leg.",
+        "idiom": "Cost an arm and a leg",
+        "idiom_meaning": "To be extremely expensive or excessively costly.",
+        "tag": "Finance: money/expense"
+    },
+    {
+        "id": 6,
+        "prompt": "I volunteered for too many projects and quickly realized I'd bitten off more than I could chew.",
+        "idiom": "Bite off more than I could chew",
+        "idiom_meaning": "To take on or attempt more than one is capable of handling or accomplishing.",
+        "tag": "Work & Career: Overcommitment"
+    },
+    {
+        "id": 7,
+        "prompt": "After the company announced the layoffs, Mark told his colleagues there was no point crying over spilt milk.",
+        "idiom": "Cry over spilt milk",
+        "idiom_meaning": "To waste time feeling upset about something that has already happened and cannot be changed or undone.",
+        "tag": "Emotion: Regret/Acceptance"
+    },
+    {
+        "id": 8,
+        "prompt": "After repeated mistakes, his boss told him to get his act together.",
+        "idiom": "Get your act together",
+        "idiom_meaning": "To become organized, focused, and responsible after a period of inefficiency or poor behavior.",
+        "tag": "Work & Career: Organization"
+    },
+    {
+        "id": 9,
+        "prompt": "By combining his errands, he was able to kill two birds with one stone and save time.",
+        "idiom": "Kill two birds with one stone",
+        "idiom_meaning": "To accomplish two objectives with a single action or effort.",
+        "tag": "Evaluation/Testing"
+    },
+    {
+        "id": 10,
+        "prompt": "Despite our careful planning, John let the cat out of the bag during dinner last night.",
+        "idiom": "Let the cat out of the bag",
+        "idiom_meaning": "To reveal a secret or information that was supposed to be kept hidden.",
+        "tag": "Social Interaction: Secrets/Disclosure"
+    },
+    {
+        "id": 11,
+        "prompt": "After three weeks of burning the midnight oil, she finally submitted her dissertation.",
+        "idiom": "Burning the midnight oil",
+        "idiom_meaning": "To work or study late into the night, often requiring artificial light.",
+        "tag": "Work & Career: Surveillance/Annoyance"
+    },
+    {
+        "id": 12,
+        "prompt": "After postponing the decision for months, James finally bit the bullet yesterday.",
+        "idiom": "Bite the bullet",
+        "idiom_meaning": "To endure a painful or difficult situation with courage and stoicism.",
+        "tag": "Courage/Endurance"
+    },
+    {
+        "id": 13,
+        "prompt": "Before the show, her friends told her to break a leg.",
+        "idiom": "Break a leg",
+        "idiom_meaning": "An expression used to wish someone good luck, particularly before a performance or presentation.",
+        "tag": "Performance/Luck"
+    },
+    {
+        "id": 14,
+        "prompt": "After hours of working on the report, she decided to call it a day.",
+        "idiom": "Call it a day",
+        "idiom_meaning": "To stop what you are doing and finish for the day.",
+        "tag": "Work & Career: Work conclusion"
+    },
+    {
+        "id": 15,
+        "prompt": "I was about to share my good news, but my sister stole my thunder by announcing her engagement.",
+        "idiom": "I don't want to steal your thunder",
+        "idiom_meaning": "This idiom means that someone doesn't want to take away attention or credit that rightfully belongs to another person.",
+        "tag": "Social Interaction: credit attribution"
+    },
+    {
+        "id": 16,
+        "prompt": "I've presented my proposal and sent all the requested documents, so the ball is in your court now.",
+        "idiom": "The ball is in your court",
+        "idiom_meaning": "It means that it is now up to someone else to take the next step or make the next decision.",
+        "tag": "Responsibility"
+    },
+    {
+        "id": 17,
+        "prompt": "After months of struggling, she finally decided to throw in the towel.",
+        "idiom": "Throw in the towel",
+        "idiom_meaning": "To surrender, quit, or admit defeat in a challenging situation.",
+        "tag": "defeat"
+    },
+    {
+        "id": 18,
+        "prompt": "As soon as we mentioned Sarah's name, she walked into the room. Speak of the devil!",
+        "idiom": "Speak of the devil",
+        "idiom_meaning": "Used when a person appears just as they are being talked about or mentioned in conversation.",
+        "tag": "coincidence/timing"
+    },
+    {
+        "id": 19,
+        "prompt": "We only see each other once every blue moon, as we live in different countries.",
+        "idiom": "Once every blue moon",
+        "idiom_meaning": "Very infrequently or rarely, indicating something that happens only on exceptional occasions.",
+        "tag": "rarity"
+    },
+    {
+        "id": 20,
+        "prompt": "The thief was caught red-handed trying to steal the jewels.",
+        "idiom": "caught red-handed",
+        "idiom_meaning": "To be discovered in the act of committing a wrongdoing or crime, leaving no doubt about one's guilt.",
+        "tag": "crime/wrongdoing"
+    },
+    {
+        "id": 21,
+        "prompt": "After three hours of interrogating the witness, Detective Peterson realized he had been barking up the wrong tree.",
+        "idiom": "Barking up the wrong tree",
+        "idiom_meaning": "To pursue a mistaken or misguided line of thought or course of action.",
+        "tag": "Work & Career: Mistakes and misjudgments"
+    },
+    {
+        "id": 22,
+        "prompt": "After seeing the impressive quarterly reports, investors quickly jumped on the bandwagon.",
+        "idiom": "Jump on the bandwagon",
+        "idiom_meaning": "To join or follow a popular trend, activity, or cause because it is popular or successful, often without much thought or conviction.",
+        "tag": "social trends"
+    },
+    {
+        "id": 23,
+        "prompt": "Ever since childhood, Emily and her cousin have been like two peas in a pod.",
+        "idiom": "Like two peas in a pod",
+        "idiom_meaning": "Two people or things that are very similar or closely connected to each other.",
+        "tag": "Similarity/Connection"
+    },
+    {
+        "id": 24,
+        "prompt": "She always goes the extra mile for her clients, ensuring their complete satisfaction.",
+        "idiom": "Go the extra mile",
+        "idiom_meaning": "To put in additional effort beyond what is required or expected.",
+        "tag": "Work & Career: effort"
+    },
+    {
+        "id": 25,
+        "prompt": "After hearing his elaborate excuse, she took his story with a pinch of salt.",
+        "idiom": "a pinch of salt",
+        "idiom_meaning": "To regard something with skepticism or to not take something completely literally or seriously.",
+        "tag": "skepticism"
+    },
+    {
+        "id": 26,
+        "prompt": "I haven't eaten all day; I'm so hungry I could eat a horse.",
+        "idiom": "I could eat a horse",
+        "idiom_meaning": "To be extremely hungry.",
+        "tag": "Hunger/Appetite"
+    },
+    {
+        "id": 27,
+        "prompt": "They decided to cancel the event, but it's no skin off my nose.",
+        "idiom": "No skin off my nose",
+        "idiom_meaning": "It doesn't affect or concern me; I am indifferent to the outcome of a situation.",
+        "tag": "personal concern"
+    },
+    {
+        "id": 28,
+        "prompt": "You never have to guess what he's feeling; he's like an open book.",
+        "idiom": "He is like an open book",
+        "idiom_meaning": "This idiom means that a person's thoughts, feelings, or intentions are easily discerned or understood by others, as they make no attempt to hide them.",
+        "tag": "Personal Character"
+    },
+    {
+        "id": 29,
+        "prompt": "She always puts her heart on her sleeve, so you always know where you stand with her.",
+        "idiom": "put your heart on your sleeve",
+        "idiom_meaning": "To openly express or reveal one's emotions, feelings, or vulnerabilities to others without holding back.",
+        "tag": "Emotion: Emotional Openness"
+    },
+    {
+        "id": 30,
+        "prompt": "The air conditioning broke down during the dog days of summer.",
+        "idiom": "Dog days of summer",
+        "idiom_meaning": "The hottest and most sultry period of summer, typically occurring in July and August in the Northern Hemisphere.",
+        "tag": "Weather/Seasons"
+    },
+    {
+        "id": 31,
+        "prompt": "Despite the financial advisor's warnings, Sarah continued building castles in the air.",
+        "idiom": "castles in the air",
+        "idiom_meaning": "Daydreams, fantasies, or plans that are impractical, unrealizable, or have no foundation in reality.",
+        "tag": "dreams and fantasies"
+    },
+    {
+        "id": 32,
+        "prompt": "We both agree on the main principles, so let's not waste time splitting hairs over the specifics.",
+        "idiom": "Splitting hairs",
+        "idiom_meaning": "Making unnecessarily fine distinctions or paying excessive attention to tiny, often irrelevant details or differences.",
+        "tag": "Arguments/Logic"
+    },
+    {
+        "id": 33,
+        "prompt": "He decided to go all out and buy \"the whole enchilada,\" including the premium package for the vacation.",
+        "idiom": "The whole enchilada",
+        "idiom_meaning": "The entire thing or everything in its complete form.",
+        "tag": "completeness"
+    },
+    {
+        "id": 34,
+        "prompt": "She needs to hit the books in order to prepare for the upcoming exams.",
+        "idiom": "Hit the books",
+        "idiom_meaning": "To study or begin studying intensely.",
+        "tag": "education"
+    },
+    {
+        "id": 35,
+        "prompt": "Even years after their breakup, he still carried a torch for her.",
+        "idiom": "Carry a torch for",
+        "idiom_meaning": "To maintain an unrequited love or longing for someone, usually over a prolonged period.",
+        "tag": "unrequited love"
+    },
+    {
+        "id": 36,
+        "prompt": "After three collection attempts, the agency finally realized they can't get blood out of a turnip.",
+        "idiom": "Can't get blood out of a turnip",
+        "idiom_meaning": "You cannot extract something from a source that does not possess it, particularly money from someone who has none.",
+        "tag": "impossible extraction or demands"
+    },
+    {
+        "id": 37,
+        "prompt": "The store had more toys than you could shake a stick at, making it challenging to choose.",
+        "idiom": "To shake a stick at",
+        "idiom_meaning": "To indicate that there is a large quantity or number of something, typically used in phrases like 'more than you can shake a stick at",
+        "tag": "Quantity expression"
+    },
+    {
+        "id": 38,
+        "prompt": "Despite his rough exterior, Mr. Thompson has a heart of gold.",
+        "idiom": "Heart of gold",
+        "idiom_meaning": "A person who has a very kind, generous, and caring nature.",
+        "tag": "character/kindness"
+    },
+    {
+        "id": 39,
+        "prompt": "After a long day at the office, John decided it was time to hit the sack.",
+        "idiom": "Hit the sack",
+        "idiom_meaning": "To go to bed or go to sleep.",
+        "tag": "Health & Lifestyle: Sleep/Rest"
+    },
+    {
+        "id": 40,
+        "prompt": "I feel a bit under the weather, so I might skip the meeting today.",
+        "idiom": "Feel a bit under the weather",
+        "idiom_meaning": "To feel slightly ill or unwell.",
+        "tag": "Health & Lifestyle: health/wellness"
+    },
+    {
+        "id": 41,
+        "prompt": "Ideas are a dime a dozen, but execution is what really matters.",
+        "idiom": "Dime a dozen",
+        "idiom_meaning": "Something that is very common, plentiful, and therefore not particularly valuable or special.",
+        "tag": "fate or decision"
+    },
+    {
+        "id": 42,
+        "prompt": "As usual, John's contribution to the project was a day late and a dollar short.",
+        "idiom": "Day late and a dollar short",
+        "idiom_meaning": "Being late and having inadequate resources or preparation for something that has already passed.",
+        "tag": "Time: timeliness"
+    },
+    {
+        "id": 43,
+        "prompt": "After the small misunderstanding at the restaurant, James got bent out of shape for the rest of the evening.",
+        "idiom": "Bent out of shape",
+        "idiom_meaning": "To become angry, upset, or annoyed about something, often disproportionately to the situation.",
+        "tag": "Emotion: Emotional State"
+    },
+    {
+        "id": 44,
+        "prompt": "In our salad days, we spent our time traveling and discovering the world.",
+        "idiom": "salad days",
+        "idiom_meaning": "A time of youthful inexperience, innocence, or indiscretion, often characterized by enthusiasm, idealism, and carefree enjoyment.",
+        "tag": "youth period"
+    },
+    {
+        "id": 45,
+        "prompt": "Searching for the lost treasure without a map was like going on a wild goose chase.",
+        "idiom": "Wild goose chase",
+        "idiom_meaning": "A foolish and hopeless pursuit or search that is unlikely to be successful.",
+        "tag": "Work & Career: futile effort"
+    },
+    {
+        "id": 46,
+        "prompt": "Nobody mentioned David's recent promotion, though it was clearly the elephant in the room.",
+        "idiom": "An elephant in the room",
+        "idiom_meaning": "An obvious problem or difficult situation that people do not want to talk about or acknowledge even though everyone is aware of it.",
+        "tag": "Social Interaction: Communication and Confrontation"
+    },
+    {
+        "id": 47,
+        "prompt": "After weeks of rumors, she finally decided to set the record straight.",
+        "idiom": "Set the record straight",
+        "idiom_meaning": "To correct false or misleading information by providing the accurate facts.",
+        "tag": "Social Interaction: Communication/Information"
+    },
+    {
+        "id": 48,
+        "prompt": "I'd love to help, but I'm snowed under with deadlines this week.",
+        "idiom": "I'm snowed under",
+        "idiom_meaning": "To be overwhelmed with too much work or too many tasks to handle at once.",
+        "tag": "Work & Career: Work Pressure"
+    },
+    {
+        "id": 49,
+        "prompt": "I hate to break your bubble, but the position has already been filled.",
+        "idiom": "Break your bubble",
+        "idiom_meaning": "To shatter someone's illusions or false beliefs by revealing an uncomfortable or disappointing truth.",
+        "tag": "beliefs and perception"
+    },
+    {
+        "id": 50,
+        "prompt": "Ever since the argument, she's been walking on eggshells around her roommate.",
+        "idiom": "Walk on eggshells",
+        "idiom_meaning": "To behave with extreme caution to avoid offending or upsetting someone who is easily offended or in a delicate emotional state.",
+        "tag": "Social Interaction: interpersonal caution"
+    },
+    {
+        "id": 51,
+        "prompt": "Despite the rising cost of living, they managed to make ends meet through careful budgeting.",
+        "idiom": "Make ends meet",
+        "idiom_meaning": "To have just enough money to pay for the basic things that you need in life.",
+        "tag": "Finance: Financial/Survival"
+    },
+    {
+        "id": 52,
+        "prompt": "The two politicians were at loggerheads over the new policy proposal.",
+        "idiom": "They were at loggerheads with each other",
+        "idiom_meaning": "To be at loggerheads means to be in a strong disagreement or dispute that cannot be easily resolved.",
+        "tag": "Conflict"
+    },
+    {
+        "id": 53,
+        "prompt": "His vintage comic book collection brought in a pretty penny at the auction.",
+        "idiom": "Bring in a pretty Penny",
+        "idiom_meaning": "To earn or generate a significant amount of money.",
+        "tag": "Finance: Financial/Money-making"
+    },
+    {
+        "id": 54,
+        "prompt": "Their friendship had endured through thick and thin, and they always supported each other.",
+        "idiom": "Through thick and thin",
+        "idiom_meaning": "To remain loyal, committed, or supportive during both good and difficult times.",
+        "tag": "Loyalty/Commitment"
+    },
+    {
+        "id": 55,
+        "prompt": "Throughout the entire meeting, James continued to beat around the bush.",
+        "idiom": "Beat around the bush",
+        "idiom_meaning": "To avoid addressing the main point or issue directly, instead talking about irrelevant or peripheral matters.",
+        "tag": "Social Interaction: communication/avoidance"
+    },
+    {
+        "id": 56,
+        "prompt": "I know things seem bleak right now, but hang in there.",
+        "idiom": "Hang in there",
+        "idiom_meaning": "To persevere, endure, or persist through a difficult or challenging situation without giving up.",
+        "tag": "Work & Career: perseverance"
+    },
+    {
+        "id": 57,
+        "prompt": "She finally apologized for her mistake; better late than never.",
+        "idiom": "Better late than never",
+        "idiom_meaning": "It is better to do something after a delay than not to do it at all.",
+        "tag": "Time: Timing and Acceptance"
+    },
+    {
+        "id": 58,
+        "prompt": "Despite the criticism, she decided to stick to her guns and continue advocating for environmental protection.",
+        "idiom": "Stick to your guns",
+        "idiom_meaning": "To firmly maintain your position, opinion, or decision despite pressure to change or opposition from others.",
+        "tag": "determination"
+    },
+    {
+        "id": 59,
+        "prompt": "The detective promised to leave no stone unturned in the search for the missing child.",
+        "idiom": "Leave no stone unturned",
+        "idiom_meaning": "To conduct an exhaustive search or investigation, exploring every possibility without omitting anything.",
+        "tag": "Work & Career: thoroughness"
+    },
+    {
+        "id": 60,
+        "prompt": "After the unexpected phone call, she's on cloud 9.",
+        "idiom": "She's on cloud 9",
+        "idiom_meaning": "To be extremely happy, euphoric or in a state of bliss.",
+        "tag": "Emotion: happiness"
+    },
+    {
+        "id": 61,
+        "prompt": "Losing that job was a blessing in disguise, as it led me to a much better opportunity.",
+        "idiom": "Blessing in disguise",
+        "idiom_meaning": "A seemingly bad or unfortunate event that ultimately results in something beneficial or positive.",
+        "tag": "unexpected fortune"
+    },
+    {
+        "id": 62,
+        "prompt": "She tried to explain the concept until she was blue in the face.",
+        "idiom": "Until one is blue in the face",
+        "idiom_meaning": "To persist in an action, especially talking or arguing, to the point of exhaustion without achieving the desired result.",
+        "tag": "persistence and futility"
+    },
+    {
+        "id": 63,
+        "prompt": "Horror movies? Not my cup of tea, honestly.",
+        "idiom": "Not my cup of tea",
+        "idiom_meaning": "Used to politely express that something is not to one's liking or preference.",
+        "tag": "preference/taste"
+    },
+    {
+        "id": 64,
+        "prompt": "Despite everyone's clear disinterest, Professor Wilson continued to beat a dead horse for the remainder of the lecture.",
+        "idiom": "Beat a dead horse",
+        "idiom_meaning": "To waste effort by continuing to discuss, argue about, or pursue something that has already been resolved or has no chance of success.",
+        "tag": "Work & Career: wasted effort/persistence"
+    },
+    {
+        "id": 65,
+        "prompt": "Despite his curiosity about the missing funds, Mark decided to let sleeping dogs lie.",
+        "idiom": "Let sleeping dogs lie",
+        "idiom_meaning": "To avoid disturbing a situation that could potentially cause trouble if interfered with.",
+        "tag": "Conflict: Conflict Avoidance"
+    },
+    {
+        "id": 66,
+        "prompt": "The antique heirloom was worth its weight in gold, both sentimentally and monetarily.",
+        "idiom": "Worth its weight in gold",
+        "idiom_meaning": "Something that is extremely valuable, useful, or important, often beyond its actual monetary value.",
+        "tag": "value"
+    },
+    {
+        "id": 67,
+        "prompt": "The company managed to weather the storm during the economic downturn.",
+        "idiom": "weather the storm",
+        "idiom_meaning": "To survive or endure a difficult period or situation without being severely harmed or damaged.",
+        "tag": "endurance/resilience"
+    },
+    {
+        "id": 68,
+        "prompt": "After receiving the news, Sarah was on top of the world.",
+        "idiom": "On top of the World",
+        "idiom_meaning": "To feel extremely happy, delighted, or successful.",
+        "tag": "Emotion: happiness"
+    },
+    {
+        "id": 69,
+        "prompt": "Sarah glanced at her watch and thought, 'Time is money,' urging herself to finish the report before the deadline",
+        "idiom": "Time is money",
+        "idiom_meaning": "The idiom 'Time is money' means that time is a valuable resource and wasting time is equivalent to wasting money or missing opportunities to earn money.",
+        "tag": "Time: value of time/economics"
+    },
+    {
+        "id": 70,
+        "prompt": "The party started calmly, but as more guests arrived, things got out of hand quickly.",
+        "idiom": "things got out of hand",
+        "idiom_meaning": "A situation escalated beyond control or became unmanageable.",
+        "tag": "control/management"
+    },
+    {
+        "id": 71,
+        "prompt": "Rather than immediately committing to the proposal, Gary was waiting to see which way the wind blows.",
+        "idiom": "waiting to see which way the wind blows",
+        "idiom_meaning": "To delay making a decision until one can determine the likely outcome or general consensus about a situation.",
+        "tag": "Decision making"
+    },
+    {
+        "id": 72,
+        "prompt": "After years of management experience, Sarah firmly believed you can attract more flies with honey than with vinegar.",
+        "idiom": "You can attract more flies with honey than with vinegar",
+        "idiom_meaning": "The idiom means that using a sweet, positive approach is more effective in persuading people or getting what you want than using a sour, negative approach.",
+        "tag": "Persuasion/Approach"
+    },
+    {
+        "id": 73,
+        "prompt": "She hadn't played the piano in years, but it was like riding a bicycle; she picked it up instantly.",
+        "idiom": "Like riding a bicycle",
+        "idiom_meaning": "The idiom refers to a skill that, once properly learned, can be performed with little effort or conscious thought even after a long period of not practicing it.",
+        "tag": "Skill"
+    },
+    {
+        "id": 74,
+        "prompt": "She glared at him when he couldn't follow the basic instructions, remarking, 'It's not rocket science.",
+        "idiom": "It's not rocket science",
+        "idiom_meaning": "Something that is not difficult to understand or do, implying it's relatively simple or straightforward.",
+        "tag": "Difficulty/Complexity"
+    },
+    {
+        "id": 75,
+        "prompt": "She couldn't keep it to herself any longer and finally spilled the beans about the surprise party.",
+        "idiom": "Spill the beans",
+        "idiom_meaning": "To reveal secret or private information, especially accidentally or indiscreetly.",
+        "tag": "Social Interaction: Revelation/Secrets"
+    },
+    {
+        "id": 76,
+        "prompt": "You should bring an umbrella; it's raining cats and dogs outside.",
+        "idiom": "raining cats and dogs",
+        "idiom_meaning": "Raining very heavily or pouring with rain",
+        "tag": "weather"
+    },
+    {
+        "id": 77,
+        "prompt": "With all preparations complete, it's time to get this show on the road and start the concert.",
+        "idiom": "Let's get this show on the road",
+        "idiom_meaning": "To begin or start a planned activity, event, or journey that has been delayed or is waiting to commence.",
+        "tag": "Starting activities"
+    },
+    {
+        "id": 78,
+        "prompt": "Her constant criticism was the last straw, and he decided to end the relationship.",
+        "idiom": "last straw",
+        "idiom_meaning": "The final small burden or problem that causes an intolerable situation or makes someone unable to cope any longer.",
+        "tag": "Adversity/Endurance"
+    },
+    {
+        "id": 79,
+        "prompt": "He regretted not investing in the company when it was starting; now he knew \"that ship has sailed.\"",
+        "idiom": "that ship has sailed",
+        "idiom_meaning": "An opportunity or situation has already passed and can no longer be acted upon or changed.",
+        "tag": "Opportunity/Timing"
+    },
+    {
+        "id": 80,
+        "prompt": "During the important budget meeting, his head was in the clouds.",
+        "idiom": "His head is in the clouds",
+        "idiom_meaning": "It means someone is daydreaming, not focusing on reality, or thinking impractically.",
+        "tag": "Thought/Daydreaming"
+    },
+    {
+        "id": 81,
+        "prompt": "With all the legal issues surrounding the project, they felt like they were \"standing on thin ice.",
+        "idiom": "Standing on thin ice",
+        "idiom_meaning": "To be in a risky, precarious, or dangerous situation where one wrong move could lead to serious trouble or consequences.",
+        "tag": "Risk"
+    },
+    {
+        "id": 82,
+        "prompt": "After their disagreement, James gave Sarah the cold shoulder at the office party.",
+        "idiom": "Give someone the cold shoulder",
+        "idiom_meaning": "To deliberately ignore someone or treat them in an unfriendly, distant, or dismissive manner.",
+        "tag": "Social Interaction: interpersonal/rejection"
+    },
+    {
+        "id": 83,
+        "prompt": "He was reluctant to invest in the stock market again—once bitten, twice shy.",
+        "idiom": "Once bitten, twice shy",
+        "idiom_meaning": "After having a bad or painful experience, people tend to become more cautious to avoid repeating the same mistake.",
+        "tag": "caution from experience"
+    },
+    {
+        "id": 84,
+        "prompt": "His decision to move abroad was a bolt from the blue to all of us.",
+        "idiom": "a bolt from the blue",
+        "idiom_meaning": "A completely unexpected and surprising event that occurs suddenly without warning.",
+        "tag": "Surprise"
+    },
+    {
+        "id": 85,
+        "prompt": "After losing his job, his car broke down, and his phone died. It seems like when it rains, it pours.",
+        "idiom": "When it rains, it pours",
+        "idiom_meaning": "This idiom means that when something bad starts happening, several other unfortunate events tend to occur at the same time or soon after, often making a situation feel overwhelming.",
+        "tag": "Misfortune/Bad Luck"
+    },
+    {
+        "id": 86,
+        "prompt": "John realized he had missed the boat when the position was filled the day after he decided to wait before applying.",
+        "idiom": "Miss the boat",
+        "idiom_meaning": "To fail to take advantage of an opportunity because of delay or hesitation.",
+        "tag": "Missed Opportunities"
+    },
+    {
+        "id": 87,
+        "prompt": "The two coworkers don't see eye to eye on how to handle the project.",
+        "idiom": "Don't see eye to eye",
+        "idiom_meaning": "To have a different opinion or viewpoint from someone else, resulting in disagreement.",
+        "tag": "Social Interaction: disagreement"
+    },
+    {
+        "id": 88,
+        "prompt": "In an argument, it takes two to tangle; both sides contribute to the dispute.",
+        "idiom": "It takes two to tangle",
+        "idiom_meaning": "Both parties involved in a conflict or disagreement share responsibility for the situation.",
+        "tag": "conflict"
+    },
+    {
+        "id": 89,
+        "prompt": "Come rain or shine, she goes for her morning run every day.",
+        "idiom": "Come rain or shine",
+        "idiom_meaning": "Under any circumstances, no matter what the conditions or difficulties might be.",
+        "tag": "reliability/consistency"
+    },
+    {
+        "id": 90,
+        "prompt": "She said she would apologize when pigs fly.",
+        "idiom": "When pigs fly",
+        "idiom_meaning": "When pigs fly is an idiom that means something will never happen or is extremely unlikely to occur.",
+        "tag": "Impossibility"
+    },
+    {
+        "id": 91,
+        "prompt": "Working part-time allows me to have the best of both worlds—time with my kids and a career.",
+        "idiom": "Best of both worlds",
+        "idiom_meaning": "A situation where someone can enjoy the advantages of two different options or situations simultaneously without the drawbacks of either.",
+        "tag": "Balance and Compromise"
+    },
+    {
+        "id": 92,
+        "prompt": "He always thinks that moving to a new city will solve all his problems, but the grass is always greener on the other side of the fence.",
+        "idiom": "The grass is always greener on the other side of the fence",
+        "idiom_meaning": "This idiom suggests that people often perceive others' situations as better than their own, even when that's not necessarily true.",
+        "tag": "perception of life"
+    },
+    {
+        "id": 93,
+        "prompt": "He finally won the championship; every dog has his day.",
+        "idiom": "Every dog has his day",
+        "idiom_meaning": "Everyone will eventually have a chance to enjoy success, fame, or good fortune.",
+        "tag": "Opportunity/Fortune"
+    },
+    {
+        "id": 94,
+        "prompt": "The presentation went down in flames when the technology failed, and the speaker forgot his notes.",
+        "idiom": "Going down in flames",
+        "idiom_meaning": "To fail, end, or be defeated in a dramatic, spectacular, or disastrous manner.",
+        "tag": "Failure/Defeat"
+    },
+    {
+        "id": 95,
+        "prompt": "His sarcastic remark certainly added fuel to the fire.",
+        "idiom": "Add fuel to the fire",
+        "idiom_meaning": "To increase or worsen a heated situation that is already intense, problematic, or out of control.",
+        "tag": "Conflict: conflict and tension"
+    },
+    {
+        "id": 96,
+        "prompt": "It's a complex problem; can you wrap your head around this?",
+        "idiom": "Can you wrap your head around this?",
+        "idiom_meaning": "To mentally grasp or understand a concept that may be difficult, complex, or confusing.",
+        "tag": "comprehension and understanding"
+    },
+    {
+        "id": 97,
+        "prompt": "After three months in the position, it became clear that Robert simply couldn't cut the mustard.",
+        "idiom": "Can't cut the mustard",
+        "idiom_meaning": "Unable to perform adequately or meet the required standard.",
+        "tag": "inadequacy and performance"
+    },
+    {
+        "id": 98,
+        "prompt": "Leaving that job without another job lined up was like jumping from the frying pan into the fire.",
+        "idiom": "From the frying pan into the fire",
+        "idiom_meaning": "Moving from one difficult or dangerous situation to another that is even worse.",
+        "tag": "worsening situations/predicaments"
+    },
+    {
+        "id": 99,
+        "prompt": "Although her decisions seemed chaotic, she assured her team that \"there's method in my madness,\" as she had a well-thought-out plan.",
+        "idiom": "There's method in my madness",
+        "idiom_meaning": "Despite appearing irrational or crazy, there is actually a logical purpose or reasoning behind one's actions.",
+        "tag": "strategy and purpose"
+    },
+    {
+        "id": 100,
+        "prompt": "She's always ready to help, at the drop of a hat.",
+        "idiom": "At the drop of a hat",
+        "idiom_meaning": "Immediately or instantly, without hesitation or delay, at the slightest signal or provocation.",
+        "tag": "immediacy/readiness"
+    },
+    {
+        "id": 101,
+        "prompt": "Despite their careful planning, I got wind of it before they made the announcement.",
+        "idiom": "I got wind of it",
+        "idiom_meaning": "To hear about or discover something, often secret or not widely known, through indirect means or rumor.",
+        "tag": "Social Interaction: Information sharing"
+    },
+    {
+        "id": 102,
+        "prompt": "Even at 80, Grandpa is fit as a fiddle.",
+        "idiom": "Fit as a fiddle",
+        "idiom_meaning": "To be in excellent physical health or condition.",
+        "tag": "Health & Lifestyle: Priority/Importance"
+    },
+    {
+        "id": 103,
+        "prompt": "Dealing with the paperwork has been a real pain in the neck.",
+        "idiom": "Pain in the neck",
+        "idiom_meaning": "A person or thing that is annoying, irritating or troublesome.",
+        "tag": "Emotion: annoyance"
+    },
+    {
+        "id": 104,
+        "prompt": "When smartphones first came out, everyone thought they were the greatest thing since sliced bread.",
+        "idiom": "Greatest thing since sliced bread",
+        "idiom_meaning": "An excellent new invention, idea, or innovation that is considered revolutionary or extremely beneficial.",
+        "tag": "innovation"
+    },
+    {
+        "id": 105,
+        "prompt": "The politician, known for his corruption, praising honesty was like the devil quoting the Bible.",
+        "idiom": "Devil quoting the Bible",
+        "idiom_meaning": "When someone with evil intentions or a bad reputation selectively uses religious or moral teachings to manipulate others or justify their actions.",
+        "tag": "religious hypocrisy"
+    },
+    {
+        "id": 106,
+        "prompt": "Don't be upset about the breakup; there are other fish in the sea.",
+        "idiom": "there are other fish in the sea",
+        "idiom_meaning": "There are many other suitable people, opportunities, or options available besides the one that was lost or rejected.",
+        "tag": "relationships"
+    },
+    {
+        "id": 107,
+        "prompt": "Given his lack of experience, he had a snowball's chance in hell of winning the competition.",
+        "idiom": "Snowball's chance in hell",
+        "idiom_meaning": "An extremely unlikely or impossible chance of something happening or succeeding.",
+        "tag": "Impossibility/Chance"
+    },
+    {
+        "id": 108,
+        "prompt": "Despite being down by twenty points in the fourth quarter, Jack reminded his dejected teammates that it wasn't over until the fat lady sings.",
+        "idiom": "It is not over until the fat lady sings",
+        "idiom_meaning": "The outcome of a situation cannot be determined or considered final until it has completely concluded.",
+        "tag": "expectation management"
+    },
+    {
+        "id": 109,
+        "prompt": "After the three cups of coffee, Mark was literally bouncing off the walls.",
+        "idiom": "Bouncing off the walls",
+        "idiom_meaning": "To be extremely energetic, hyperactive, or restless, often to the point of being difficult to control or contain.",
+        "tag": "Hyperactivity"
+    },
+    {
+        "id": 110,
+        "prompt": "After three hours waiting at the airport, Sarah reminded herself that every cloud has a silver lining.",
+        "idiom": "Every cloud has a silver lining",
+        "idiom_meaning": "In every difficult or unpleasant situation, there is some potential for benefit or positive outcome.",
+        "tag": "Optimism/Adversity"
+    },
+    {
+        "id": 111,
+        "prompt": "Let me play devil's advocate here and question the plan's feasibility.",
+        "idiom": "Devil's advocate",
+        "idiom_meaning": "A person who expresses a contentious opinion in order to provoke debate or test the strength of an opposing argument, even if they don't personally hold that view.",
+        "tag": "Social Interaction: secrecy and information"
+    },
+    {
+        "id": 112,
+        "prompt": "Instead of worrying about future issues, let's focus on the task at hand and cross that bridge when we come to it.",
+        "idiom": "We'll cross that bridge when we come to it,",
+        "idiom_meaning": "We will deal with a problem or situation when it actually occurs, rather than worrying about it in advance.",
+        "tag": "problem solving"
+    },
+    {
+        "id": 113,
+        "prompt": "Despite the risks, she decided to throw caution to the wind and invest in the startup.",
+        "idiom": "throw caution to the wind",
+        "idiom_meaning": "To act recklessly without concern for risks or consequences.",
+        "tag": "risk-taking/recklessness"
+    },
+    {
+        "id": 114,
+        "prompt": "She stared silently out the window for several minutes until he finally said, 'Penny for your thoughts.",
+        "idiom": "penny for your thoughts",
+        "idiom_meaning": "A polite way of asking someone what they are thinking about, especially when they appear to be deep in thought or unusually quiet.",
+        "tag": "Social Interaction: conversation"
+    },
+    {
+        "id": 115,
+        "prompt": "Even though the job applicant appeared nervous during the interview, the hiring manager remembered, \"You can't judge a book by its cover.",
+        "idiom": "You can't judge a book by its cover",
+        "idiom_meaning": "The idiom means that one should not form an opinion or judgment about someone or something based solely on external appearance, as the true nature, character, or value often lies beneath the surface.",
+        "tag": "Judgment/Appearances"
+    },
+    {
+        "id": 116,
+        "prompt": "I hate to rain on your parade, but the position has already been filled.",
+        "idiom": "I hate to rain on your parade",
+        "idiom_meaning": "To reluctantly share negative information or criticism that will disappoint someone who is excited or happy about something.",
+        "tag": "Emotion: disappointment"
+    },
+    {
+        "id": 117,
+        "prompt": "Diversify your investments; don't put all your eggs in one basket.",
+        "idiom": "Don't put all your eggs in one basket",
+        "idiom_meaning": "Avoid risking everything on a single venture, investment, or approach by diversifying your resources, efforts, or options.",
+        "tag": "Advice on risk management"
+    },
+    {
+        "id": 118,
+        "prompt": "After John started asking too many questions about the budget, the CEO decided to put him on ice.",
+        "idiom": "put him on ice",
+        "idiom_meaning": "To suspend, postpone, or delay dealing with someone or their activities temporarily",
+        "tag": "Delaying/Postponing"
+    },
+    {
+        "id": 119,
+        "prompt": "Tom just winked at me and said he won the lottery, but I think he's pulling my leg.",
+        "idiom": "pull someone's leg",
+        "idiom_meaning": "To tease or joke with someone by telling them something untrue in a playful way.",
+        "tag": "Social Interaction: humor/deception"
+    },
+    {
+        "id": 120,
+        "prompt": "She's sitting on the fence regarding which job offer to accept.",
+        "idiom": "Sitting on the fence",
+        "idiom_meaning": "To avoid choosing sides or making a clear decision between two options or in a conflict or dispute.",
+        "tag": "indecision"
+    },
+    {
+        "id": 121,
+        "prompt": "The prototype failed, so it's back to the drawing board.",
+        "idiom": "Back to the drawing board",
+        "idiom_meaning": "To start over and make a new plan after an attempt has failed.",
+        "tag": "starting over"
+    },
+    {
+        "id": 122,
+        "prompt": "After the evidence proved his alibi, he was off the hook.",
+        "idiom": "Off the hook",
+        "idiom_meaning": "To be freed from responsibility, trouble, or an obligation that one would otherwise have to deal with.",
+        "tag": "Work & Efficiency: responsibility/obligation"
+    },
+    {
+        "id": 123,
+        "prompt": "She's really on the ball when it comes to managing her team's schedule.",
+        "idiom": "On the ball",
+        "idiom_meaning": "To be quick, alert, attentive, and responsive to situations, showing competence and efficiency.",
+        "tag": "competence"
+    },
+    {
+        "id": 124,
+        "prompt": "I decided to take the job offer rather than wait for a better one—a bird in the hand is worth 2 in the bush.",
+        "idiom": "Bird in the hand is worth 2 in the bush",
+        "idiom_meaning": "It's better to hold onto something certain that you already possess than to risk losing it by chasing after something potentially more valuable but uncertain.",
+        "tag": "Decision Making/Caution"
+    },
+    {
+        "id": 125,
+        "prompt": "After resisting the urge to buy another coffee, John reminded himself that a penny saved is a penny earned.",
+        "idiom": "a penny saved is a penny earned",
+        "idiom_meaning": "Money that you save is as valuable as money that you earn through work.",
+        "tag": "Finance: money and savings"
+    },
+    {
+        "id": 126,
+        "prompt": "After losing the championship game, the referee's snide comment about their performance really added insult to injury.",
+        "idiom": "Add insult to injury",
+        "idiom_meaning": "To make a bad situation even worse by causing additional humiliation or distress to someone who has already been harmed.",
+        "tag": "misfortune"
+    },
+    {
+        "id": 127,
+        "prompt": "It looks promising, but don't count your chickens before they hatch.",
+        "idiom": "Don't count your chickens before they hatch",
+        "idiom_meaning": "Don't anticipate or assume success before it is assured or finalized.",
+        "tag": "premature expectations"
+    },
+    {
+        "id": 128,
+        "prompt": "After constantly criticizing others, he finally got a \"taste of his own medicine\" when his mistakes were pointed out.",
+        "idiom": "Taste of your own medicine",
+        "idiom_meaning": "To experience the same unpleasant treatment or situation that you have inflicted on others.",
+        "tag": "Justice/Reciprocity"
+    },
+    {
+        "id": 129,
+        "prompt": "I can't worry about that now; I have bigger fish to fry.",
+        "idiom": "I have bigger fish to fry",
+        "idiom_meaning": "I have more important or urgent matters to deal with.",
+        "tag": "priorities"
+    },
+    {
+        "id": 130,
+        "prompt": "He's a chip off the old block, just like his father in so many ways.",
+        "idiom": "Chip off the old block",
+        "idiom_meaning": "A person who closely resembles their parent in character, behavior, or appearance.",
+        "tag": "Family/Resemblance"
+    },
+    {
+        "id": 131,
+        "prompt": "They're unaware of the challenges ahead. Well, ignorance is bliss.",
+        "idiom": "Ignorance is bliss",
+        "idiom_meaning": "Being unaware of certain facts or truths can sometimes make one happier than knowing the potentially distressing reality.",
+        "tag": "Knowledge/Happiness"
+    },
+    {
+        "id": 132,
+        "prompt": "When John called Sarah lazy, she replied, 'It takes one to know one.",
+        "idiom": "It takes one to know one",
+        "idiom_meaning": "The phrase suggests that a person can only recognize or identify a particular quality or characteristic in another person because they possess that same quality themselves.",
+        "tag": "self-awareness"
+    },
+    {
+        "id": 133,
+        "prompt": "After discovering that his shortcut actually took longer, John shrugged and said, 'Live and learn.",
+        "idiom": "Live and learn",
+        "idiom_meaning": "To acknowledge that we gain new knowledge or understanding from mistakes or experiences as we go through life.",
+        "tag": "Knowledge: Life Lessons"
+    },
+    {
+        "id": 134,
+        "prompt": "His father always told him to look before you leap to avoid making hasty decisions.",
+        "idiom": "Look before you leap",
+        "idiom_meaning": "To carefully examine a situation and consider possible consequences before taking action.",
+        "tag": "caution/decision making"
+    },
+    {
+        "id": 135,
+        "prompt": "She's been saving for a rainy day in case of unexpected expenses.",
+        "idiom": "Saving for a rainy day",
+        "idiom_meaning": "Setting aside money or resources to use during future times of need or unexpected difficulties.",
+        "tag": "Finance"
+    },
+    {
+        "id": 136,
+        "prompt": "After five years of diligent work on her novel, she finally found a publisher; slow and steady wins the race.",
+        "idiom": "Slow and steady wins the race",
+        "idiom_meaning": "Consistent and determined effort, even if slow, is more likely to lead to success than rushed or inconsistent approaches.",
+        "tag": "Work & Career: perseverance"
+    },
+    {
+        "id": 137,
+        "prompt": "I can't make it to dinner tonight, can I take a rain check?",
+        "idiom": "rain check",
+        "idiom_meaning": "A polite way to decline an invitation or offer while expressing interest in accepting it at a later time.",
+        "tag": "Social Interaction: social etiquette"
+    },
+    {
+        "id": 138,
+        "prompt": "She listened to her brother's explanation about the broken vase with a grain of salt.",
+        "idiom": "A grain of salt",
+        "idiom_meaning": "To consider something with a degree of skepticism or doubt rather than accepting it as completely true or accurate.",
+        "tag": "Skepticism/Judgment"
+    },
+    {
+        "id": 139,
+        "prompt": "Sarah always submits her tax returns in January, firmly believing that the early bird gets the worm.",
+        "idiom": "Early bird gets the worm",
+        "idiom_meaning": "Those who arrive first or start early have the best chance of success or advantage.",
+        "tag": "Success/timing"
+    },
+    {
+        "id": 140,
+        "prompt": "She gave it the whole 9 yards for the party.",
+        "idiom": "Whole 9 yards",
+        "idiom_meaning": "The entire amount or the complete extent of something, often implying giving maximum effort or including everything possible.",
+        "tag": "measurement/completeness"
+    },
+    {
+        "id": 141,
+        "prompt": "John eagerly signed up for the complimentary financial seminar, but his father reminded him that there's no such thing as a free lunch.",
+        "idiom": "There's no such thing as a free lunch",
+        "idiom_meaning": "The idiom means that anything offered as 'free' usually has hidden costs, strings attached, or expectations of something in return.",
+        "tag": "caution and secrecy"
+    },
+    {
+        "id": 142,
+        "prompt": "She wanted to go on vacation and save money at the same time, but her financial advisor reminded her, \"You can't have your cake and eat it too.",
+        "idiom": "You can't have your cake and eat it too",
+        "idiom_meaning": "This idiom means that one cannot simultaneously possess something while also consuming or using it up, suggesting that sometimes we must choose between two desirable but mutually exclusive options.",
+        "tag": "Choices/Limitations"
+    },
+    {
+        "id": 143,
+        "prompt": "He thought he could fix the car because he watched one video, but a little learning is a dangerous thing.",
+        "idiom": "A little learning is a dangerous thing",
+        "idiom_meaning": "Having a small amount of knowledge can make people think they know more than they actually do, leading to poor decisions or actions.",
+        "tag": "knowledge/education"
+    },
+    {
+        "id": 144,
+        "prompt": "Fixing the leaky roof now is like \"a stitch in time,\" preventing more extensive damage in the future.",
+        "idiom": "A stitch in time saves nine",
+        "idiom_meaning": "Taking prompt action to address a small problem now will prevent it from becoming a much larger problem requiring more effort to fix later.",
+        "tag": "preventive action"
+    },
+    {
+        "id": 145,
+        "prompt": "They were all arguing over who left the door open, but it was really just a storm in a teacup.",
+        "idiom": "storm in a teacup",
+        "idiom_meaning": "A small problem or disagreement that is given too much importance or blown out of proportion.",
+        "tag": "exaggeration"
+    },
+    {
+        "id": 146,
+        "prompt": "Regular check-ups are important; an ounce of prevention is worth a pound of cure.",
+        "idiom": "An ounce of prevention is worth a pound of cure",
+        "idiom_meaning": "Taking small preventive actions now is easier and better than needing extensive corrective measures later.",
+        "tag": "Prevention and Planning"
+    },
+    {
+        "id": 147,
+        "prompt": "The eerie quietness in the office was the calm before the storm of the audit.",
+        "idiom": "Calm before the storm",
+        "idiom_meaning": "A deceptively peaceful or quiet period that precedes a period of intense activity, trouble, or chaos.",
+        "tag": "Weather and difficult situations"
+    },
+    {
+        "id": 148,
+        "prompt": "Curiosity killed the cat, it's better not to ask too many questions.",
+        "idiom": "Curiosity killed the cat",
+        "idiom_meaning": "Being too curious or inquisitive can lead to dangerous or harmful situations.",
+        "tag": "caution/wisdom"
+    },
+    {
+        "id": 149,
+        "prompt": "He tried to finish his project the night before it was due, but haste makes waste.",
+        "idiom": "Haste makes waste",
+        "idiom_meaning": "Acting too quickly or rushing through tasks often leads to errors, inefficiencies, or poor results that require additional work to fix.",
+        "tag": "Work & Career: Patience/Efficiency"
+    },
+    {
+        "id": 150,
+        "prompt": "When his competitors went bankrupt, he proved that he who laughs last laughs loudest.",
+        "idiom": "He who laughs last laughs loudest",
+        "idiom_meaning": "The person who succeeds or triumphs in the end, especially after initially appearing to lose or fail, enjoys the greatest satisfaction.",
+        "tag": "Success/Triumph"
+    },
+    {
+        "id": 151,
+        "prompt": "You can trust this news; I got it straight from the horse's mouth.",
+        "idiom": "I got it straight from the horse's mouth",
+        "idiom_meaning": "To receive information directly from the most authoritative or original source.",
+        "tag": "Social Interaction: Information/Communication"
+    },
+    {
+        "id": 152,
+        "prompt": "He actually thought he could fool the boss? He's not playing with a full deck.",
+        "idiom": "Not playing with a full deck",
+        "idiom_meaning": "Refers to someone who is mentally deficient, stupid, or crazy, as if they are missing some of their mental faculties.",
+        "tag": "mental capacity"
+    },
+    {
+        "id": 153,
+        "prompt": "After the announcement, John was off his rocker for the rest of the day.",
+        "idiom": "He is off his rocker",
+        "idiom_meaning": "He is behaving in a crazy, insane, or irrational manner.",
+        "tag": "Emtion: mental state"
+    },
+    {
+        "id": 154,
+        "prompt": "When the software crashed, he didn't complain, remembering it is a poor workman who blames his tools.",
+        "idiom": "It is a poor workman who blames his tools",
+        "idiom_meaning": "This idiom means that a skilled or competent person takes responsibility for their mistakes rather than blaming their equipment or resources.",
+        "tag": "Work & Career: personal responsibility"
+    },
+    {
+        "id": 155,
+        "prompt": "Don't lose hope; remember, it's always darkest before the dawn.",
+        "idiom": "It's always darkest before the dawn",
+        "idiom_meaning": "The most difficult or hopeless time occurs just before a situation begins to improve.",
+        "tag": "hope in adversity"
+    },
+    {
+        "id": 156,
+        "prompt": "You can't blame the breakdown of the relationship solely on her; it takes two to tango.",
+        "idiom": "it takes two to tango",
+        "idiom_meaning": "A situation, especially a problematic one, cannot be created or continued by one person alone but requires participation or involvement from both parties.",
+        "tag": "relationships"
+    },
+    {
+        "id": 157,
+        "prompt": "The coach told the players that they needed to shape up or ship out if they wanted to remain on the team.",
+        "idiom": "shape up or ship out",
+        "idiom_meaning": "To improve one's behavior, performance, or attitude or face being forced to leave or be dismissed.",
+        "tag": "discipline"
+    },
+    {
+        "id": 158,
+        "prompt": "He accused me of being lazy, but that's the pot calling the kettle black since he hardly ever finishes his work on time.",
+        "idiom": "pot calling the kettle black",
+        "idiom_meaning": "When someone criticizes another person for a fault or negative characteristic that they themselves possess.",
+        "tag": "Social Interaction: hypocrisy"
+    },
+    {
+        "id": 159,
+        "prompt": "After Mark's harsh comments about the presentation, Jennifer quietly reminded him that those who live in glass houses should not throw stones.",
+        "idiom": "Those who live in glass houses should not throw stones",
+        "idiom_meaning": "People should not criticize others for faults that they themselves possess.",
+        "tag": "Social Interaction: Hypocrisy/Self-awareness"
+    },
+    {
+        "id": 160,
+        "prompt": "As she carefully folded the small piece of gift wrap for future use, her grandmother nodded approvingly and whispered, 'Waste not, want not.",
+        "idiom": "Waste not, want not",
+        "idiom_meaning": "The idiom means that if you use resources carefully and avoid waste, you won't suffer from shortage later.",
+        "tag": "resource management/frugality"
+    },
+    {
+        "id": 161,
+        "prompt": "You can say that again! This is the best pizza I've ever had!",
+        "idiom": "You can say that again",
+        "idiom_meaning": "An informal expression used to strongly agree with what someone has just said.",
+        "tag": "Social Interaction: Agreement/Conversation"
+    },
+    {
+        "id": 162,
+        "prompt": "After years of struggling with his novel, the old writer finally kicked the bucket.",
+        "idiom": "Kick the bucket",
+        "idiom_meaning": "To die or pass away.",
+        "tag": "Death"
+    },
+    {
+        "id": 163,
+        "prompt": "He made the deadline by the skin of his teeth, with no time to spare.",
+        "idiom": "By the skin of his teeth",
+        "idiom_meaning": "To barely succeed or escape failure by an extremely small margin.",
+        "tag": "Narrow escape"
+    },
+    {
+        "id": 164,
+        "prompt": "The manager decided to turn a blind eye to the minor infractions, focusing on more significant issues.",
+        "idiom": "Turn a blind eye",
+        "idiom_meaning": "To deliberately ignore or refuse to acknowledge a situation or problem, especially wrongdoing or misconduct.",
+        "tag": "awareness/morality"
+    },
+    {
+        "id": 165,
+        "prompt": "After he missed another deadline, his manager read him the riot act.",
+        "idiom": "Read him the riot act",
+        "idiom_meaning": "To severely reprimand or scold someone for their misbehavior or wrongdoing.",
+        "tag": "disciplinary action"
+    },
+    {
+        "id": 166,
+        "prompt": "He claimed his new marketing strategy would work, but the proof is in the pudding.",
+        "idiom": "The proof is in the pudding",
+        "idiom_meaning": "The true value or quality of something can only be judged when it is put to the test or when you experience the results.",
+        "tag": "Testing/Evaluation"
+    },
+    {
+        "id": 167,
+        "prompt": "With their lead, victory is in the bag for the team.",
+        "idiom": "In the bag",
+        "idiom_meaning": "Something that is certain to happen or be achieved, considered a sure thing or guaranteed success.",
+        "tag": "certainty/success"
+    },
+    {
+        "id": 168,
+        "prompt": "Brace yourself for the impact, it's going to be a rough landing.",
+        "idiom": "Brace yourself",
+        "idiom_meaning": "To mentally or physically prepare oneself for something challenging, shocking, or difficult that is about to happen.",
+        "tag": "Preparation/Warning"
+    },
+    {
+        "id": 169,
+        "prompt": "Three months later, she still can't shake it.",
+        "idiom": "Can't shake it",
+        "idiom_meaning": "Unable to rid oneself of a feeling, thought, illness, or problem despite efforts to do so.",
+        "tag": "persistent problems"
+    },
+    {
+        "id": 170,
+        "prompt": "After receiving the letter, Harold fell into a brown study, barely noticing when the others left the room.",
+        "idiom": "Fell into a brown study",
+        "idiom_meaning": "To become lost in deep thought or contemplation, often with a melancholy or gloomy mood.",
+        "tag": "Emotion: contemplation/mood"
+    },
+    {
+        "id": 171,
+        "prompt": "The banquet was fit for a king, with an abundance of gourmet dishes.",
+        "idiom": "Fit for a king",
+        "idiom_meaning": "Something that is of excellent quality, luxurious, or of the highest standard.",
+        "tag": "Order/Fairness"
+    },
+    {
+        "id": 172,
+        "prompt": "To reduce his sentence, he sent a snitch kite to the guards about the planned escape.",
+        "idiom": "He sent a snitch kite",
+        "idiom_meaning": "He sent a written message, typically in prison, to inform on or report someone else's illegal or rule-breaking activities to authorities.",
+        "tag": "Social Interaction: Communication"
+    },
+    {
+        "id": 173,
+        "prompt": "When the director frantically asked if anyone knew how to operate the vintage film projector, James calmly stepped forward and said, 'I'm your huckleberry.",
+        "idiom": "I'm your huckleberry",
+        "idiom_meaning": "I am the perfect person for the job or challenge you're facing, or I am willing and ready to take on whatever you're proposing.",
+        "tag": "Readiness"
+    },
+    {
+        "id": 174,
+        "prompt": "She reminded herself 'No pain, no gain' as she pushed through another tough workout session.",
+        "idiom": "No pain, no gain",
+        "idiom_meaning": "Success or achievement requires effort and discomfort.",
+        "tag": "Work & Career: effort/achievement"
+    },
+    {
+        "id": 175,
+        "prompt": "For that luxury car, he paid through the nose but thought it was worth every penny.",
+        "idiom": "pay through the nose",
+        "idiom_meaning": "To pay an excessively high price or amount for something",
+        "tag": "Finance: money and spending"
+    },
+    {
+        "id": 176,
+        "prompt": "Starting her own business was a leap of faith, but she believed in her abilities to succeed.",
+        "idiom": "A leap of faith",
+        "idiom_meaning": "An act or instance of believing or trusting in something without evidence or logical proof.",
+        "tag": "belief/trust"
+    },
+    {
+        "id": 177,
+        "prompt": "The global pandemic was a black swan event.",
+        "idiom": "Black swan event",
+        "idiom_meaning": "A highly improbable occurrence that has a massive impact and that, in hindsight, people rationalize as having been predictable.",
+        "tag": "Finance/Risk Management"
+    },
+    {
+        "id": 178,
+        "prompt": "After years of dedication, her innovative approach finally earned the blue ribbon.",
+        "idiom": "Blue ribbon",
+        "idiom_meaning": "A designation or award indicating the highest quality, excellence, or first-place achievement in a competition or field.",
+        "tag": "Achievement"
+    },
+    {
+        "id": 179,
+        "prompt": "His legacy will cast a long shadow over the industry for years to come.",
+        "idiom": "Cast a long shadow",
+        "idiom_meaning": "To have a significant or lasting influence or impact that extends well beyond the immediate situation or time period.",
+        "tag": "influence"
+    },
+    {
+        "id": 180,
+        "prompt": "Despite everyone's advice, John continued chasing rainbows.",
+        "idiom": "Chasing rainbows",
+        "idiom_meaning": "Pursuing unrealistic or unattainable goals and dreams that are unlikely to be achieved.",
+        "tag": "Unrealistic Goals"
+    },
+    {
+        "id": 181,
+        "prompt": "After dinner, John offered me the 50 cent tour of his new apartment.",
+        "idiom": "50 cent tour",
+        "idiom_meaning": "A quick, brief tour or overview of a place, typically informal and highlighting only the main features.",
+        "tag": "Transportation/Sightseeing"
+    },
+    {
+        "id": 182,
+        "prompt": "The project was a dead pig in the sunshine, utterly failing to meet any of its goals.",
+        "idiom": "Dead pig in the sunshine",
+        "idiom_meaning": "Something that is blatantly obvious, cannot be hidden, or that draws unwanted attention due to its conspicuousness.",
+        "tag": "Obviousness and unwanted attention"
+    },
+    {
+        "id": 183,
+        "prompt": "After the long flight, James was sick as a dog.",
+        "idiom": "Sick as a dog",
+        "idiom_meaning": "To be extremely ill or nauseated, typically with reference to physical illness.",
+        "tag": "Health & Lifestyle: health/illness"
+    },
+    {
+        "id": 184,
+        "prompt": "It might not be perfect, but it's free. Don't look a gift horse in the mouth.",
+        "idiom": "Don't look a gift horse in the mouth",
+        "idiom_meaning": "Accept a gift or good fortune graciously without questioning its value or expressing criticism.",
+        "tag": "Gift-giving/Gratitude"
+    },
+    {
+        "id": 185,
+        "prompt": "After the cleaning, my car was clean as a whistle.",
+        "idiom": "Clean as a whistle",
+        "idiom_meaning": "Completely clean, pure, or spotless; can also refer to something done thoroughly or completely.",
+        "tag": "Cleanliness/Thoroughness"
+    },
+    {
+        "id": 186,
+        "prompt": "After losing everything in the market crash, James had no choice but to pull himself up by his bootstraps.",
+        "idiom": "pull yourself up by your bootstraps",
+        "idiom_meaning": "To succeed or improve one's position through one's own efforts without external help.",
+        "tag": "self-reliance"
+    },
+    {
+        "id": 187,
+        "prompt": "After they met at the charity gala last month, Thomas has been head over heels.",
+        "idiom": "Head over heels",
+        "idiom_meaning": "Completely and deeply in love or completely involved in something to the point of being overwhelmed by it.",
+        "tag": "Emotion/Love"
+    },
+    {
+        "id": 188,
+        "prompt": "The young entrepreneur continued to push the envelope despite skepticism from industry veterans.",
+        "idiom": "push the envelope",
+        "idiom_meaning": "To test or exceed established boundaries or limits, often by being innovative or taking risks.",
+        "tag": "innovation/boundaries"
+    },
+    {
+        "id": 189,
+        "prompt": "By openly challenging the company's policies, he's put a target on his back.",
+        "idiom": "put a target on his back",
+        "idiom_meaning": "To make someone vulnerable to criticism, attack, or become singled out as someone others want to defeat or harm",
+        "tag": "Vulnerability/Targeting"
+    },
+    {
+        "id": 190,
+        "prompt": "In a difficult situation, her optimistic attitude was a real ray of sunshine.",
+        "idiom": "ray of sunshine",
+        "idiom_meaning": "A person or thing that brings happiness, joy, or positive energy into a situation.",
+        "tag": "positive influence"
+    },
+    {
+        "id": 191,
+        "prompt": "She always encouraged her students to reach for the moon in their ambitions.",
+        "idiom": "reach for the moon",
+        "idiom_meaning": "To strive for ambitious, seemingly impossible goals or dreams",
+        "tag": "ambition/goals"
+    },
+    {
+        "id": 192,
+        "prompt": "Ever since the job interview, he's been walking on pins and needles waiting for a response.",
+        "idiom": "Walking on pins and needles",
+        "idiom_meaning": "To be extremely cautious, tense, or anxious in a situation where one feels they might easily make a mistake or offend someone.",
+        "tag": "Emotion: Emotional State"
+    },
+    {
+        "id": 193,
+        "prompt": "Mixing inexperienced staff with poor planning is a recipe for disaster.",
+        "idiom": "recipe for disaster",
+        "idiom_meaning": "A combination of circumstances, actions, or ingredients that will likely result in failure or catastrophe.",
+        "tag": "Warning"
+    },
+    {
+        "id": 194,
+        "prompt": "His sudden reluctance to discuss finances was a red flag.",
+        "idiom": "red flag",
+        "idiom_meaning": "A warning sign or signal indicating a potential problem, danger, or issue that requires attention.",
+        "tag": "warning"
+    },
+    {
+        "id": 195,
+        "prompt": "Compared to last year's project, this one was a walk in the park.",
+        "idiom": "Walk in the park",
+        "idiom_meaning": "A task or situation that is very easy or straightforward, requiring minimal effort or challenge.",
+        "tag": "effort/difficulty"
+    },
+    {
+        "id": 196,
+        "prompt": "After taking that medicine, I'll be right as rain by tomorrow.",
+        "idiom": "right as rain",
+        "idiom_meaning": "In perfect health or condition; absolutely fine or correct.",
+        "tag": "Health & Lifestyle health/wellbeing"
+    },
+    {
+        "id": 197,
+        "prompt": "The young actress is considered a rising star after her breakthrough role.",
+        "idiom": "rising star",
+        "idiom_meaning": "A person who is rapidly gaining recognition, success, or popularity in their profession or field of activity.",
+        "tag": "success and recognition"
+    },
+    {
+        "id": 198,
+        "prompt": "You can't expect to learn a new language overnight. Rome was not built in a day.",
+        "idiom": "Rome was not built in a day",
+        "idiom_meaning": "Significant achievements or complex tasks require time and patience to complete.",
+        "tag": "patience and time"
+    },
+    {
+        "id": 199,
+        "prompt": "At parties, she felt like a wallflower, too shy to join in on the dancing.",
+        "idiom": "Wallflower",
+        "idiom_meaning": "A shy or socially awkward person who stands or sits alone at the edge of a social gathering, typically at a dance or party.",
+        "tag": "Social Interaction: Social Behavior"
+    },
+    {
+        "id": 200,
+        "prompt": "She was given a full ride to her dream university.",
+        "idiom": "Was given a full ride",
+        "idiom_meaning": "To receive a scholarship that covers all expenses including tuition, room, board, and sometimes books and other fees, typically for college or university education",
+        "tag": "Education/Scholarship"
+    }
+]
