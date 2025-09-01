@@ -121,13 +121,10 @@ The final scores (Reasoning Accuracy and Image Quality) of the model will be pri
 ## :black_nib: Citation
 If you find T2I-ReasonBench useful for your research, please cite our paper. :)
 ```
-@misc{sun2025t2ireasonbenchbenchmarkingreasoninginformedtexttoimage,
-      title={T2I-ReasonBench: Benchmarking Reasoning-Informed Text-to-Image Generation}, 
-      author={Kaiyue Sun and Rongyao Fang and Chengqi Duan and Xian Liu and Xihui Liu},
-      year={2025},
-      eprint={2508.17472},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2508.17472}, 
+@article{sun2025t2i,
+  title={T2I-ReasonBench: Benchmarking Reasoning-Informed Text-to-Image Generation},
+  author={Sun, Kaiyue and Fang, Rongyao and Duan, Chengqi and Liu, Xian and Liu, Xihui},
+  journal={arXiv preprint arXiv:2508.17472},
+  year={2025}
 }
 ```
